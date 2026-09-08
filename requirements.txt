@@ -1,0 +1,4 @@
+requests>=2.32,<3
+pandas>=2.2,<3
+python-dateutil>=2.9,<3
+tomli>=2.0; python_version < "3.11"

@@ -1,0 +1,30 @@
+name: NSE Daily OHLCV
+
+on:
+  workflow_dispatch:
+  schedule:
+    # GitHub Actions cron is UTC. 11:30 UTC = 17:00 IST.
+    - cron: "30 11 * * 1-5"
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install -r requirements.txt
+
+      - run: python -m src.init_db
+
+      - run: python -m src.daily_job
+
+      - run: python -m src.retention --days 370
+
+      - run: python -m src.audit
+
+      # SQLite is intentionally not committed by default.
+      # For production, upload the database to object storage or use PostgreSQL.

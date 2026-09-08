@@ -1,0 +1,18 @@
+[database]
+path = "data/nse_ohlcv.sqlite3"
+
+[collection]
+keep_series = ["EQ"]
+timeout_seconds = 45
+max_retries = 4
+raw_dir = "data/raw"
+export_dir = "data/exports"
+log_dir = "logs"
+
+[retention]
+calendar_days = 370
+
+[nse]
+# Current UDiFF CM daily bulk archive pattern.
+# NSE can change archive naming/paths; keep this isolated here.
+udiff_url = "https://nsearchives.nseindia.com/content/cm/BhavCopy_NSE_CM_0_0_0_{date}_F_0000.csv.zip"
