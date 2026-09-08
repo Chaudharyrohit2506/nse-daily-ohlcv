@@ -9,3 +9,6 @@ logs/*
 .DS_Store
 .idea/
 .vscode/
+
+!data/exports/
+!data/exports/*.parquet
