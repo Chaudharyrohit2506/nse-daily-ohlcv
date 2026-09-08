@@ -97,6 +97,10 @@ def collect(date_str=None):
             raise ValueError("No valid equity rows found after validation.")
 
         loaded = load_into_db(con, valid, "NSE_UDIFF")
+        export_dir = Path(cfg["collection"]["export_dir"])
+        export_dir.mkdir(parents=True, exist_ok=True)
+        export_cols = ["trade_date","symbol","series","isin","open","high","low","close","prev_close","volume","traded_value"]
+        valid[export_cols].to_parquet(export_dir / f"{date_obj:%Y-%m-%d}.parquet", index=False)
 
         message = (
             f"URL={url}; file={csv_name}; raw={len(raw)}; valid={len(valid)}; "

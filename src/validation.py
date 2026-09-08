@@ -22,7 +22,7 @@ def normalize_columns(df: pd.DataFrame) -> pd.DataFrame:
         "TOTTRDQTY": "volume",
         "TOTAL_TURNOVER": "traded_value",
         "TURNOVER_LACS": "traded_value",
-        "ISIN": "isin",
+        "ISIN": "isin", "TCKRSYMB": "symbol", "SCTYSRS": "series", "OPNPRIC": "open", "HGHPRIC": "high", "LWPRIC": "low", "CLSPRIC": "close", "PRVSCLSGPRIC": "prev_close", "TTLTRADGVOL": "volume", "TTLTRFVAL": "traded_value",
     }
 
     out = df.rename(columns={k: v for k, v in aliases.items() if k in df.columns})
