@@ -368,6 +368,103 @@ def build_master():
     )
 
 
+
+def update_master():
+    """Incrementally update the existing master with new equity sessions and matching indices."""
+    master_path = Path("data/nse_ohlcv_3year_master.parquet")
+
+    if not master_path.exists():
+        raise SystemExit("Master dataset does not exist. Run: python -m src.build_master download && python -m src.build_master build")
+
+    print("Loading existing master...")
+    master = pd.read_parquet(master_path)
+    master["trade_date"] = pd.to_datetime(master["trade_date"], errors="coerce")
+
+    current_max = master["trade_date"].max()
+    print(f"Existing master latest date: {current_max.date()}")
+
+    equity_files = []
+    for f in sorted(Path("data/exports").glob("*.parquet")):
+        try:
+            d = pd.Timestamp(f.stem)
+        except Exception:
+            continue
+        if d > current_max:
+            equity_files.append((d, f))
+
+    print(f"New equity sessions found: {len(equity_files)}")
+
+    if not equity_files:
+        print("Master is already up to date.")
+        return
+
+    session = get_session()
+    new_parts = []
+
+    for d, equity_file in equity_files:
+        print(f"Updating {d.date()}...")
+
+        eq = pd.read_parquet(equity_file)
+        eq["trade_date"] = pd.to_datetime(eq["trade_date"], errors="coerce")
+        eq["asset_type"] = "EQUITY"
+
+        index_file = INDEX_DIR / f"ind_close_all_{d.strftime('%d%m%Y')}.csv"
+
+        if not index_file.exists():
+            downloaded = download_index_file(session, d.date())
+            if downloaded is None:
+                raise SystemExit(f"Could not download index data for {d.date()}")
+
+        idx = normalize_index_file(index_file)
+        idx["trade_date"] = pd.to_datetime(idx["trade_date"], errors="coerce")
+
+        new_parts.extend([eq, idx])
+
+    new_data = pd.concat(new_parts, ignore_index=True)
+
+    master = pd.concat([master, new_data], ignore_index=True)
+
+    master["trade_date"] = pd.to_datetime(
+        master["trade_date"], errors="coerce"
+    )
+
+    master = master.dropna(subset=["trade_date", "symbol"])
+    master = master.drop_duplicates(
+        ["trade_date", "symbol", "asset_type"],
+        keep="last",
+    )
+
+    master = master.sort_values(
+        ["trade_date", "asset_type", "symbol"],
+        ascending=[False, True, True],
+    ).reset_index(drop=True)
+
+    text_cols = ["symbol", "asset_type", "series", "isin"]
+    for col in text_cols:
+        if col in master.columns:
+            master[col] = master[col].astype("string")
+
+    numeric_cols = [
+        "open", "high", "low", "close",
+        "prev_close", "volume", "traded_value",
+    ]
+    for col in numeric_cols:
+        if col in master.columns:
+            master[col] = pd.to_numeric(master[col], errors="coerce")
+
+    master.to_parquet(
+        master_path,
+        index=False,
+        compression="zstd",
+    )
+
+    print("MASTER UPDATE COMPLETE")
+    print(f"Rows: {len(master):,}")
+    print(f"Min date: {master['trade_date'].min().date()}")
+    print(f"Max date: {master['trade_date'].max().date()}")
+    print(f"Unique dates: {master['trade_date'].nunique():,}")
+
+
 if __name__ == "__main__":
     import sys
 
@@ -375,6 +472,7 @@ if __name__ == "__main__":
         print("Usage:")
         print("  python -m src.build_master download")
         print("  python -m src.build_master build")
+        print("  python -m src.build_master update")
         raise SystemExit(2)
 
     command = sys.argv[1].lower()
@@ -383,5 +481,7 @@ if __name__ == "__main__":
         collect_indices()
     elif command == "build":
         build_master()
+    elif command == "update":
+        update_master()
     else:
         raise SystemExit(f"Unknown command: {command}")
