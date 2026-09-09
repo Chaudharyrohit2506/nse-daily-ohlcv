@@ -7,7 +7,7 @@ import pandas as pd
 import requests
 
 START_DATE = date(2023, 9, 8)
-END_DATE = date(2026, 9, 8)
+END_DATE = date.today()
 
 INDEX_DIR = Path("data/index_exports")
 EQUITY_DIR = Path("data/exports")
