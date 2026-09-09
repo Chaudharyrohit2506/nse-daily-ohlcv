@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-09,Nifty Non-Cyclical Consumer,INDEX,,,14851.3,14870.15,14768.1,14810.45,,102310580.0,
 2026-09-08,Nifty Non-Cyclical Consumer,INDEX,,,14855.8,14928.8,14826.8,14891.65,,84670919.0,
 2026-09-07,Nifty Non-Cyclical Consumer,INDEX,,,14963.5,14974.0,14848.25,14885.0,,95758600.0,
 2026-09-04,Nifty Non-Cyclical Consumer,INDEX,,,15019.8,15048.8,14962.3,14963.7,,248110269.0,

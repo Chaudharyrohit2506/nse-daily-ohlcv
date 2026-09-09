@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-09,Nifty CPSE,INDEX,,,6460.65,6530.5,6458.9,6471.6,,107431392.0,
 2026-09-08,Nifty CPSE,INDEX,,,6420.0,6469.7,6398.6,6449.8,,72720829.0,
 2026-09-07,Nifty CPSE,INDEX,,,6432.6,6447.45,6407.25,6417.25,,54684183.0,
 2026-09-04,Nifty CPSE,INDEX,,,6449.05,6449.35,6416.25,6419.8,,45292642.0,

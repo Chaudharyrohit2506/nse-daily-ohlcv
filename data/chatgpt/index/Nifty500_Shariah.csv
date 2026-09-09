@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-09,Nifty500 Shariah,INDEX,,,6871.85,6873.1,6839.35,6847.7,,437947917.0,
 2026-09-08,Nifty500 Shariah,INDEX,,,6903.75,6911.35,6877.5,6902.0,,365124770.0,
 2026-09-07,Nifty500 Shariah,INDEX,,,6928.15,6931.65,6881.85,6895.0,,396000784.0,
 2026-09-04,Nifty500 Shariah,INDEX,,,6977.35,6983.15,6942.65,6943.25,,558042113.0,

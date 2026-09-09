@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-09,Nifty100 ESG Sector Leaders,INDEX,,,3937.25,3951.9,3928.6,3932.65,,359625801.0,
 2026-09-08,Nifty100 ESG Sector Leaders,INDEX,,,3975.15,3978.05,3951.9,3958.4,,220047089.0,
 2026-09-07,Nifty100 ESG Sector Leaders,INDEX,,,4003.1,4003.6,3974.95,3982.05,,202345145.0,
 2026-09-04,Nifty100 ESG Sector Leaders,INDEX,,,4004.25,4020.85,4002.35,4005.8,,238059441.0,

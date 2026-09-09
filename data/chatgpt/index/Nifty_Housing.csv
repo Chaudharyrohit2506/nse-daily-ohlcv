@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-09,Nifty Housing,INDEX,,,11604.45,11693.95,11601.25,11623.05,,369519752.0,
 2026-09-08,Nifty Housing,INDEX,,,11687.45,11696.25,11626.0,11630.6,,258212714.0,
 2026-09-07,Nifty Housing,INDEX,,,11798.65,11808.5,11683.9,11701.3,,251173396.0,
 2026-09-04,Nifty Housing,INDEX,,,11790.15,11825.7,11760.95,11795.05,,256786711.0,

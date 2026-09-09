@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-09,Nifty 8-13 yr G-Sec,INDEX,,,3045.82,3045.83,3044.27,3045.22,,,
 2026-09-08,Nifty 8-13 yr G-Sec,INDEX,,,3044.81,3045.45,3042.71,3045.26,,,
 2026-09-07,Nifty 8-13 yr G-Sec,INDEX,,,3043.22,3045.68,3042.89,3044.26,,,
 2026-09-04,Nifty 8-13 yr G-Sec,INDEX,,,3041.15,3043.84,3040.48,3041.51,,,

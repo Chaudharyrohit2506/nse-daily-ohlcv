@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-09,Nifty Smallcap 50,INDEX,,,10048.5,10061.8,10009.9,10018.35,,197988604.0,
 2026-09-08,Nifty Smallcap 50,INDEX,,,10034.75,10063.15,9993.25,10058.1,,144102313.0,
 2026-09-07,Nifty Smallcap 50,INDEX,,,10008.45,10067.95,9988.4,10026.65,,124395125.0,
 2026-09-04,Nifty Smallcap 50,INDEX,,,10022.55,10064.35,10002.3,10019.5,,146408241.0,
