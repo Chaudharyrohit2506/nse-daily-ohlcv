@@ -12,3 +12,6 @@ logs/*
 
 !data/exports/
 !data/exports/*.parquet
+
+# Raw NSE index downloads (rebuildable)
+data/index_exports/
