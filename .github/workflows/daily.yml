@@ -34,6 +34,9 @@ jobs:
       - name: Collect latest NSE session
         run: python -m src.daily_job
 
+      - name: Update combined 3-year master
+        run: python -m src.build_master update
+
       - name: Apply 3-year database retention
         run: python -m src.retention --days 1095
 
