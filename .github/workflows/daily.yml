@@ -37,6 +37,9 @@ jobs:
       - name: Update combined 3-year master
         run: python -m src.build_master update
 
+      - name: Build rolling ChatGPT CSV layer
+        run: python -m src.build_chatgpt_csv
+
       - name: Apply 3-year database retention
         run: python -m src.retention --days 1095
 

@@ -1,0 +1,10 @@
+trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-08,Nifty500 Growth 50,INDEX,,,,,,34331.19,,82740244.0,
+2026-09-07,Nifty500 Growth 50,INDEX,,,,,,34196.12,,87934817.0,
+2026-09-04,Nifty500 Growth 50,INDEX,,,,,,34252.03,,89628862.0,
+2026-09-03,Nifty500 Growth 50,INDEX,,,,,,34292.73,,149204605.0,
+2026-09-02,Nifty500 Growth 50,INDEX,,,,,,34077.43,,93620966.0,
+2026-09-01,Nifty500 Growth 50,INDEX,,,,,,34174.28,,83106620.0,
+2026-08-31,Nifty500 Growth 50,INDEX,,,,,,34588.96,,162862421.0,
+2026-08-28,Nifty500 Growth 50,INDEX,,,,,,34525.41,,143488165.0,
+2026-08-27,Nifty500 Growth 50,INDEX,,,,,,34495.45,,97268928.0,

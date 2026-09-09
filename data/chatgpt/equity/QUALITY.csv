@@ -1,0 +1,2 @@
+trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2025-07-18,QUALITY,EQUITY,EQ,INF174KA1WT6,20.82,21.15,20.78,20.9,20.82,9872.0,206335.48
