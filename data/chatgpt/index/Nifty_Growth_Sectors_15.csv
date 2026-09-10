@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-10,Nifty Growth Sectors 15,INDEX,,,11078.4,11083.15,11014.0,11054.25,,21541590.0,
 2026-09-09,Nifty Growth Sectors 15,INDEX,,,11146.2,11146.2,11043.3,11068.25,,27705366.0,
 2026-09-08,Nifty Growth Sectors 15,INDEX,,,11223.7,11238.25,11162.05,11218.95,,19803972.0,
 2026-09-07,Nifty Growth Sectors 15,INDEX,,,11250.75,11254.8,11193.35,11217.45,,20430109.0,

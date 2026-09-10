@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-10,Nifty Midcap150 Momentum 50,INDEX,,,63968.65,63999.15,63369.85,63572.75,,1010851357.0,
 2026-09-09,Nifty Midcap150 Momentum 50,INDEX,,,63949.2,64193.95,63783.15,64035.2,,694049522.0,
 2026-09-08,Nifty Midcap150 Momentum 50,INDEX,,,63710.1,64092.5,63526.7,64047.55,,482940309.0,
 2026-09-07,Nifty Midcap150 Momentum 50,INDEX,,,63675.05,63829.3,63431.45,63530.9,,834787869.0,

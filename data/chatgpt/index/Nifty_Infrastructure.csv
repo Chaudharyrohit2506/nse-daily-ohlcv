@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-10,Nifty Infrastructure,INDEX,,,9127.25,9141.2,9087.6,9133.45,,155348834.0,
 2026-09-09,Nifty Infrastructure,INDEX,,,9102.75,9176.55,9095.45,9119.5,,188417664.0,
 2026-09-08,Nifty Infrastructure,INDEX,,,9164.5,9169.5,9119.65,9144.05,,121979634.0,
 2026-09-07,Nifty Infrastructure,INDEX,,,9204.0,9210.75,9155.95,9188.7,,137853354.0,

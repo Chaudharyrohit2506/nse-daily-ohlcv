@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-10,Nifty Capital Goods,INDEX,,,,,,17206.07,,115572579.0,
 2026-09-08,Nifty Capital Goods,INDEX,,,,,,17388.56,,111147495.0,
 2026-09-07,Nifty Capital Goods,INDEX,,,,,,17206.69,,93354967.0,
 2026-09-04,Nifty Capital Goods,INDEX,,,,,,17234.92,,157752417.0,

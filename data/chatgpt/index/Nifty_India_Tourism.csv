@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-10,Nifty India Tourism,INDEX,,,7777.0,7781.35,7706.1,7724.8,,18048710.0,
 2026-09-09,Nifty India Tourism,INDEX,,,7756.75,7805.95,7745.65,7787.65,,23217688.0,
 2026-09-08,Nifty India Tourism,INDEX,,,7753.35,7807.65,7746.6,7790.3,,19762773.0,
 2026-09-07,Nifty India Tourism,INDEX,,,7815.75,7822.75,7757.5,7776.1,,16169796.0,

@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-10,Nifty Next 100,INDEX,,,,,,5948.35,,319321146.0,
 2026-09-08,Nifty Next 100,INDEX,,,,,,5984.45,,313223447.0,
 2026-09-07,Nifty Next 100,INDEX,,,,,,5967.17,,313799008.0,
 2026-09-04,Nifty Next 100,INDEX,,,,,,5999.78,,460451193.0,
