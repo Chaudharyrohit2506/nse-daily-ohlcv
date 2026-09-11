@@ -732,4 +732,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-09-14,Nifty50 USD,INDEX,,,,,,8388.78,,,
 2023-09-13,Nifty50 USD,INDEX,,,,,,8380.01,,,
 2023-09-12,Nifty50 USD,INDEX,,,,,,8354.74,,,
-2023-09-11,Nifty50 USD,INDEX,,,,,,8344.99,,,

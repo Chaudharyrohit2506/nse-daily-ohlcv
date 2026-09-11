@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-11,Nifty Waves,INDEX,,,1858.7,1869.9,1845.9,1866.05,,38919300.0,
 2026-09-10,Nifty Waves,INDEX,,,1873.7,1881.75,1861.2,1863.5,,35459651.0,
 2026-09-09,Nifty Waves,INDEX,,,1882.95,1884.45,1867.95,1870.75,,26669856.0,
 2026-09-08,Nifty Waves,INDEX,,,1883.3,1899.75,1879.3,1881.5,,37457241.0,

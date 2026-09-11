@@ -1,0 +1,2 @@
+trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-11,DOLLEX,EQUITY,EQ,INE0JHH01011,35.0,38.95,35.0,38.45,39.05,215183.0,8065864.9

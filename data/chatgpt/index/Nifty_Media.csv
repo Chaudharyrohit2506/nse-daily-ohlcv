@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-11,Nifty Media,INDEX,,,1531.25,1551.6,1523.9,1537.2,,32880802.0,
 2026-09-10,Nifty Media,INDEX,,,1533.25,1546.9,1525.3,1534.8,,30627796.0,
 2026-09-09,Nifty Media,INDEX,,,1541.1,1541.3,1522.65,1526.45,,21302958.0,
 2026-09-08,Nifty Media,INDEX,,,1519.75,1550.45,1516.55,1540.6,,27116641.0,
@@ -737,4 +738,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-09-14,Nifty Media,INDEX,,,2348.05,2360.6,2315.25,2329.15,,47337498.0,
 2023-09-13,Nifty Media,INDEX,,,2306.35,2345.6,2289.1,2338.45,,58331621.0,
 2023-09-12,Nifty Media,INDEX,,,2413.5,2419.1,2295.05,2303.3,,86800274.0,
-2023-09-11,Nifty Media,INDEX,,,2430.85,2432.4,2402.0,2406.75,,57773664.0,

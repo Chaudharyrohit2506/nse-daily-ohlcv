@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-11,NIFTY Quality Low-Volatility 30,INDEX,,,15965.15,16085.9,15943.0,16031.25,,96873707.0,
 2026-09-10,NIFTY Quality Low-Volatility 30,INDEX,,,16140.55,16149.1,16022.3,16081.85,,101478322.0,
 2026-09-09,NIFTY Quality Low-Volatility 30,INDEX,,,16232.4,16252.55,16107.9,16119.05,,132645206.0,
 2026-09-08,NIFTY Quality Low-Volatility 30,INDEX,,,16274.45,16327.45,16227.4,16293.55,,85098157.0,
@@ -737,4 +738,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-09-14,NIFTY Quality Low-Volatility 30,INDEX,,,,,,14155.85,,77417316.0,
 2023-09-13,NIFTY Quality Low-Volatility 30,INDEX,,,,,,14131.59,,79955428.0,
 2023-09-12,NIFTY Quality Low-Volatility 30,INDEX,,,,,,14129.46,,93140766.0,
-2023-09-11,NIFTY Quality Low-Volatility 30,INDEX,,,,,,14197.57,,66289050.0,
