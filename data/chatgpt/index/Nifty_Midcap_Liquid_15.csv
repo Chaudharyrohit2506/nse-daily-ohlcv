@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-15,Nifty Midcap Liquid 15,INDEX,,,17324.05,17362.75,16777.1,16779.85,,189187280.0,
 2026-09-11,Nifty Midcap Liquid 15,INDEX,,,16991.85,17266.9,16844.8,17197.6,,364009456.0,
 2026-09-10,Nifty Midcap Liquid 15,INDEX,,,17171.1,17176.9,17021.55,17084.5,,136089472.0,
 2026-09-09,Nifty Midcap Liquid 15,INDEX,,,17141.05,17264.25,17118.75,17190.85,,153648691.0,
@@ -734,7 +735,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-09-21,Nifty Midcap Liquid 15,INDEX,,,9530.6,9568.95,9443.95,9469.2,,55161598.0,
 2023-09-20,Nifty Midcap Liquid 15,INDEX,,,9556.6,9618.65,9502.1,9552.4,,57611554.0,
 2023-09-18,Nifty Midcap Liquid 15,INDEX,,,9651.2,9655.55,9569.65,9584.2,,51950224.0,
-2023-09-15,Nifty Midcap Liquid 15,INDEX,,,9608.75,9646.6,9564.0,9638.85,,68165988.0,
-2023-09-14,Nifty Midcap Liquid 15,INDEX,,,9521.35,9567.0,9491.6,9560.0,,59401737.0,
-2023-09-13,Nifty Midcap Liquid 15,INDEX,,,9421.0,9480.65,9326.4,9460.0,,69083679.0,
-2023-09-12,Nifty Midcap Liquid 15,INDEX,,,9740.25,9740.6,9416.65,9432.95,,72210786.0,

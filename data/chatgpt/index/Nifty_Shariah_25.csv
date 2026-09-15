@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-15,Nifty Shariah 25,INDEX,,,7737.9,7779.2,7597.9,7597.9,,70063364.0,
 2026-09-11,Nifty Shariah 25,INDEX,,,7612.95,7676.8,7611.45,7650.05,,71658342.0,
 2026-09-10,Nifty Shariah 25,INDEX,,,7676.35,7708.05,7645.8,7675.25,,45486974.0,
 2026-09-09,Nifty Shariah 25,INDEX,,,7720.3,7726.0,7670.1,7681.85,,55661052.0,
@@ -734,7 +735,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-09-21,Nifty Shariah 25,INDEX,,,,,,6820.04,,73335594.0,
 2023-09-20,Nifty Shariah 25,INDEX,,,,,,6837.92,,98172212.0,
 2023-09-18,Nifty Shariah 25,INDEX,,,,,,6874.52,,106425401.0,
-2023-09-15,Nifty Shariah 25,INDEX,,,,,,6878.35,,114981313.0,
-2023-09-14,Nifty Shariah 25,INDEX,,,,,,6857.9,,95203597.0,
-2023-09-13,Nifty Shariah 25,INDEX,,,,,,6837.15,,87776575.0,
-2023-09-12,Nifty Shariah 25,INDEX,,,,,,6818.34,,144197346.0,

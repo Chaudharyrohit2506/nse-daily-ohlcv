@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-15,Nifty Infrastructure,INDEX,,,9105.4,9113.95,8910.75,8910.75,,176321360.0,
 2026-09-11,Nifty Infrastructure,INDEX,,,9076.35,9108.05,9042.9,9077.15,,203237078.0,
 2026-09-10,Nifty Infrastructure,INDEX,,,9127.25,9141.2,9087.6,9133.45,,155348834.0,
 2026-09-09,Nifty Infrastructure,INDEX,,,9102.75,9176.55,9095.45,9119.5,,188417664.0,
@@ -734,7 +735,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-09-21,Nifty Infrastructure,INDEX,,,6198.0,6205.05,6170.8,6185.3,,139917769.0,
 2023-09-20,Nifty Infrastructure,INDEX,,,6248.9,6266.45,6193.85,6211.0,,196851768.0,
 2023-09-18,Nifty Infrastructure,INDEX,,,6278.1,6289.45,6260.65,6268.95,,139947343.0,
-2023-09-15,Nifty Infrastructure,INDEX,,,6300.5,6304.35,6263.4,6283.35,,237570587.0,
-2023-09-14,Nifty Infrastructure,INDEX,,,6273.3,6286.35,6255.8,6281.9,,141925592.0,
-2023-09-13,Nifty Infrastructure,INDEX,,,6215.3,6254.3,6194.8,6244.5,,143567199.0,
-2023-09-12,Nifty Infrastructure,INDEX,,,6335.6,6336.0,6201.0,6208.5,,227838032.0,
