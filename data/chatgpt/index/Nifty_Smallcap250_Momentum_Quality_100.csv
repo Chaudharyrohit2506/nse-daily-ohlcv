@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-16,Nifty Smallcap250 Momentum Quality 100,INDEX,,,47722.2,47878.7,46721.3,47706.05,,160216229.0,
 2026-09-15,Nifty Smallcap250 Momentum Quality 100,INDEX,,,49276.1,49363.55,47673.8,47787.6,,180572015.0,
 2026-09-11,Nifty Smallcap250 Momentum Quality 100,INDEX,,,49195.05,49274.55,48650.95,49215.55,,125232011.0,
 2026-09-10,Nifty Smallcap250 Momentum Quality 100,INDEX,,,49390.9,49615.55,49285.3,49485.75,,154423595.0,
