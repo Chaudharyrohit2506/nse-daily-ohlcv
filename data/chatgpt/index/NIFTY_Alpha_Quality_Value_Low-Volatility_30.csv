@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-17,NIFTY Alpha Quality Value Low-Volatility 30,INDEX,,,19440.8,19597.95,19437.0,19528.8,,88928635.0,
 2026-09-16,NIFTY Alpha Quality Value Low-Volatility 30,INDEX,,,19385.7,19514.1,19335.35,19460.35,,99611674.0,
 2026-09-15,NIFTY Alpha Quality Value Low-Volatility 30,INDEX,,,19635.6,19654.9,19344.45,19344.45,,107775743.0,
 2026-09-11,NIFTY Alpha Quality Value Low-Volatility 30,INDEX,,,19579.55,19647.9,19529.45,19572.4,,109562009.0,

@@ -1,0 +1,2 @@
+trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-17,ANNU,EQUITY,EQ,INE103001017,50.43,51.98,46.55,49.28,52.67,2867305.0,141757022.02

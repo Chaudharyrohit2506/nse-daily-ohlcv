@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-17,Nifty100 Equal Weight,INDEX,,,33413.3,33760.9,33412.55,33705.7,,383566481.0,
 2026-09-16,Nifty100 Equal Weight,INDEX,,,33391.05,33553.25,33174.45,33426.35,,411936034.0,
 2026-09-15,Nifty100 Equal Weight,INDEX,,,34202.7,34223.45,33336.7,33339.3,,496517909.0,
 2026-09-11,Nifty100 Equal Weight,INDEX,,,33933.9,34090.15,33778.9,34020.6,,456378375.0,

@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-17,Nifty Bank,INDEX,,,56126.6,56570.45,56038.5,56055.75,,187803552.0,
 2026-09-16,Nifty Bank,INDEX,,,56007.65,56368.7,55812.2,56292.45,,335512005.0,
 2026-09-15,Nifty Bank,INDEX,,,56884.25,56996.35,55794.75,55794.75,,253162379.0,
 2026-09-11,Nifty Bank,INDEX,,,55970.15,56645.85,55699.45,56606.55,,358541513.0,
