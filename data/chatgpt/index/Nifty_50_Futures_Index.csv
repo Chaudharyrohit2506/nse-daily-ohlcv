@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-18,Nifty 50 Futures Index,INDEX,,,,,,5713.41,,,
 2026-09-17,Nifty 50 Futures Index,INDEX,,,,,,5702.39,,,
 2026-09-16,Nifty 50 Futures Index,INDEX,,,,,,5687.46,,,
 2026-09-15,Nifty 50 Futures Index,INDEX,,,,,,5675.63,,,
@@ -735,4 +736,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-09-22,Nifty 50 Futures Index,INDEX,,,,,,5862.34,,,
 2023-09-21,Nifty 50 Futures Index,INDEX,,,,,,5883.3,,,
 2023-09-20,Nifty 50 Futures Index,INDEX,,,,,,5940.81,,,
-2023-09-18,Nifty 50 Futures Index,INDEX,,,,,,6002.33,,,

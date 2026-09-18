@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-18,Nifty Microcap 250,INDEX,,,26053.25,26420.8,26051.1,26380.7,,696958710.0,
 2026-09-17,Nifty Microcap 250,INDEX,,,25714.7,26027.4,25672.35,25962.15,,564369078.0,
 2026-09-16,Nifty Microcap 250,INDEX,,,25745.3,25787.15,25131.05,25743.9,,854966298.0,
 2026-09-15,Nifty Microcap 250,INDEX,,,26711.55,26782.75,25726.95,25780.3,,715612209.0,
@@ -736,4 +737,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-09-22,Nifty Microcap 250,INDEX,,,15898.4,15970.95,15745.45,15892.5,,1124974250.0,
 2023-09-21,Nifty Microcap 250,INDEX,,,16006.7,16112.3,15821.45,15856.95,,1061815592.0,
 2023-09-20,Nifty Microcap 250,INDEX,,,16036.65,16172.7,15944.8,16005.9,,1047016763.0,
-2023-09-18,Nifty Microcap 250,INDEX,,,16210.25,16247.35,16061.35,16079.9,,1288505369.0,

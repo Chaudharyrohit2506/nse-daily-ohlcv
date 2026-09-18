@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-18,Nifty500 Multifactor MQVLv 50,INDEX,,,29908.9,30013.8,29891.65,29962.25,,280378386.0,
 2026-09-17,Nifty500 Multifactor MQVLv 50,INDEX,,,29679.1,29912.2,29664.65,29862.7,,160958309.0,
 2026-09-16,Nifty500 Multifactor MQVLv 50,INDEX,,,29543.5,29733.7,29346.35,29682.55,,205870119.0,
 2026-09-15,Nifty500 Multifactor MQVLv 50,INDEX,,,30075.45,30097.25,29493.75,29502.35,,207767063.0,

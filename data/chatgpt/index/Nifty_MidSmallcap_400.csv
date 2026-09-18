@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-18,Nifty MidSmallcap 400,INDEX,,,20967.25,21254.05,20966.1,21238.65,,1999706663.0,
 2026-09-17,Nifty MidSmallcap 400,INDEX,,,20740.55,20968.85,20727.6,20924.9,,1265433493.0,
 2026-09-16,Nifty MidSmallcap 400,INDEX,,,20768.6,20812.85,20446.7,20744.9,,1813439222.0,
 2026-09-15,Nifty MidSmallcap 400,INDEX,,,21304.4,21329.3,20742.45,20750.7,,1704811407.0,
@@ -736,4 +737,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-09-22,Nifty MidSmallcap 400,INDEX,,,13967.1,14009.8,13848.95,13934.15,,2558138938.0,
 2023-09-21,Nifty MidSmallcap 400,INDEX,,,14059.85,14118.75,13914.0,13942.85,,2413339366.0,
 2023-09-20,Nifty MidSmallcap 400,INDEX,,,14098.95,14151.9,14028.7,14076.15,,2435515658.0,
-2023-09-18,Nifty MidSmallcap 400,INDEX,,,14224.6,14224.85,14122.2,14132.9,,3899816140.0,

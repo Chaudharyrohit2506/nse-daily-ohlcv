@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-18,NIFTY100 Enhanced ESG,INDEX,,,4877.65,4898.3,4872.5,4898.3,,462507953.0,
 2026-09-17,NIFTY100 Enhanced ESG,INDEX,,,4834.6,4879.8,4833.65,4862.3,,294211985.0,
 2026-09-16,NIFTY100 Enhanced ESG,INDEX,,,4834.65,4855.8,4812.5,4839.05,,312389198.0,
 2026-09-15,NIFTY100 Enhanced ESG,INDEX,,,4923.95,4927.35,4822.55,4822.55,,382421953.0,
@@ -736,4 +737,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-09-22,NIFTY100 Enhanced ESG,INDEX,,,,,,3783.95,,358326425.0,
 2023-09-21,NIFTY100 Enhanced ESG,INDEX,,,,,,3792.9,,351855282.0,
 2023-09-20,NIFTY100 Enhanced ESG,INDEX,,,,,,3817.78,,491058925.0,
-2023-09-18,NIFTY100 Enhanced ESG,INDEX,,,,,,3851.09,,410949506.0,

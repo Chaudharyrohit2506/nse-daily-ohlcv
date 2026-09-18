@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-18,Nifty Private Bank,INDEX,,,27216.85,27408.75,27208.3,27290.0,,213940208.0,
 2026-09-17,Nifty Private Bank,INDEX,,,27205.95,27379.25,27165.95,27169.2,,147912225.0,
 2026-09-16,Nifty Private Bank,INDEX,,,27189.1,27339.15,27055.05,27284.25,,288940418.0,
 2026-09-15,Nifty Private Bank,INDEX,,,27605.45,27633.95,27069.8,27069.8,,217364651.0,
@@ -736,4 +737,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-09-22,Nifty Private Bank,INDEX,,,23087.85,23243.3,23010.75,23050.2,,113904274.0,
 2023-09-21,Nifty Private Bank,INDEX,,,23321.7,23362.45,23053.4,23072.05,,141476312.0,
 2023-09-20,Nifty Private Bank,INDEX,,,23463.95,23644.5,23347.8,23430.5,,202931133.0,
-2023-09-18,Nifty Private Bank,INDEX,,,23853.0,23872.7,23677.9,23715.25,,107355883.0,

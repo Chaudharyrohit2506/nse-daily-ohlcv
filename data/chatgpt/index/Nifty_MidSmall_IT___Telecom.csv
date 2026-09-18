@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-18,Nifty MidSmall IT & Telecom,INDEX,,,9809.15,9817.7,9692.0,9781.4,,393527538.0,
 2026-09-17,Nifty MidSmall IT & Telecom,INDEX,,,9726.05,9801.1,9698.2,9784.0,,214564212.0,
 2026-09-16,Nifty MidSmall IT & Telecom,INDEX,,,9854.55,9864.35,9672.5,9737.25,,351678527.0,
 2026-09-15,Nifty MidSmall IT & Telecom,INDEX,,,10093.75,10154.85,9829.95,9840.6,,465252795.0,
@@ -736,4 +737,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-09-22,Nifty MidSmall IT & Telecom,INDEX,,,,,,8163.68,,316809971.0,
 2023-09-21,Nifty MidSmall IT & Telecom,INDEX,,,,,,8168.8,,203779942.0,
 2023-09-20,Nifty MidSmall IT & Telecom,INDEX,,,,,,8222.0,,184977633.0,
-2023-09-18,Nifty MidSmall IT & Telecom,INDEX,,,,,,8295.25,,489306695.0,

@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-18,Nifty Commodities,INDEX,,,9520.6,9584.0,9515.95,9566.55,,203721817.0,
 2026-09-17,Nifty Commodities,INDEX,,,9446.8,9508.5,9445.25,9501.55,,114077626.0,
 2026-09-16,Nifty Commodities,INDEX,,,9429.85,9480.95,9376.55,9442.15,,138008768.0,
 2026-09-15,Nifty Commodities,INDEX,,,9606.7,9613.5,9406.75,9407.55,,153155303.0,
@@ -736,4 +737,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-09-22,Nifty Commodities,INDEX,,,6478.45,6491.4,6418.8,6438.45,,145593823.0,
 2023-09-21,Nifty Commodities,INDEX,,,6506.55,6522.2,6460.0,6477.5,,178851289.0,
 2023-09-20,Nifty Commodities,INDEX,,,6568.95,6594.3,6500.35,6514.2,,232742906.0,
-2023-09-18,Nifty Commodities,INDEX,,,6617.85,6617.85,6577.0,6590.0,,196710831.0,
