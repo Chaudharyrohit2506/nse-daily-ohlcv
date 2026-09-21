@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-21,Nifty500 LargeMidSmall Equal-Cap Weighted,INDEX,,,18307.9,18343.6,18281.6,18308.3,,2167215311.0,
 2026-09-18,Nifty500 LargeMidSmall Equal-Cap Weighted,INDEX,,,18144.8,18329.1,18144.0,18318.95,,2598378793.0,
 2026-09-17,Nifty500 LargeMidSmall Equal-Cap Weighted,INDEX,,,17969.25,18147.8,17963.3,18105.5,,1648999974.0,
 2026-09-16,Nifty500 LargeMidSmall Equal-Cap Weighted,INDEX,,,17986.75,18031.35,17759.2,17979.1,,2225375256.0,

@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-21,Nifty Total Market Momentum Quality 50,INDEX,,,43808.75,43969.2,43588.5,43645.45,,118965090.0,
 2026-09-18,Nifty Total Market Momentum Quality 50,INDEX,,,43604.7,44000.3,43601.95,43720.75,,134991679.0,
 2026-09-17,Nifty Total Market Momentum Quality 50,INDEX,,,43067.8,43527.05,42989.05,43469.45,,75098037.0,
 2026-09-16,Nifty Total Market Momentum Quality 50,INDEX,,,42988.1,43149.3,42356.3,43029.9,,99526709.0,

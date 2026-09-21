@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-21,Nifty MidSmallcap400 50:50,INDEX,,,20750.6,20790.1,20693.8,20721.95,,1830288188.0,
 2026-09-18,Nifty MidSmallcap400 50:50,INDEX,,,20496.1,20782.15,20495.4,20765.05,,1999706663.0,
 2026-09-17,Nifty MidSmallcap400 50:50,INDEX,,,20273.9,20495.95,20262.8,20456.2,,1265433493.0,
 2026-09-16,Nifty MidSmallcap400 50:50,INDEX,,,20304.55,20347.45,19968.8,20282.75,,1813439222.0,
