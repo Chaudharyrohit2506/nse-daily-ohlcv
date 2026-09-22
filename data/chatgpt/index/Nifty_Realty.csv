@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-22,Nifty Realty,INDEX,,,858.9,865.1,855.35,861.5,,9966691.0,
 2026-09-21,Nifty Realty,INDEX,,,845.55,856.65,844.8,853.85,,6600917.0,
 2026-09-18,Nifty Realty,INDEX,,,836.15,851.65,835.55,844.2,,12450544.0,
 2026-09-17,Nifty Realty,INDEX,,,823.0,840.2,820.45,834.25,,8665601.0,
@@ -735,4 +736,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-09-27,Nifty Realty,INDEX,,,570.8,577.45,569.8,576.0,,31193797.0,
 2023-09-26,Nifty Realty,INDEX,,,571.7,573.95,569.4,571.8,,19712007.0,
 2023-09-25,Nifty Realty,INDEX,,,562.4,572.05,557.4,570.05,,72928123.0,
-2023-09-22,Nifty Realty,INDEX,,,566.5,570.75,559.95,561.5,,15274496.0,
