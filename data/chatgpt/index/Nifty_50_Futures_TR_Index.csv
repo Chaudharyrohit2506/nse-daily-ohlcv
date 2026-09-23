@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-23,Nifty 50 Futures TR Index,INDEX,,,,,,25177.14,,,
 2026-09-22,Nifty 50 Futures TR Index,INDEX,,,,,,25113.79,,,
 2026-09-21,Nifty 50 Futures TR Index,INDEX,,,,,,25165.19,,,
 2026-09-18,Nifty 50 Futures TR Index,INDEX,,,,,,25080.26,,,

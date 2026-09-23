@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-23,Nifty 1D Rate Index,INDEX,,,,,,2605.11,,,
 2026-09-22,Nifty 1D Rate Index,INDEX,,,,,,2604.74,,,
 2026-09-21,Nifty 1D Rate Index,INDEX,,,,,,2604.38,,,
 2026-09-18,Nifty 1D Rate Index,INDEX,,,,,,2603.29,,,

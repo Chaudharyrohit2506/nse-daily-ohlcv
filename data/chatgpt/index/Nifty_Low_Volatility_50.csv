@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-23,Nifty Low Volatility 50,INDEX,,,23803.7,23936.7,23797.0,23934.8,,129026503.0,
 2026-09-22,Nifty Low Volatility 50,INDEX,,,23926.25,23950.15,23756.0,23790.7,,145553191.0,
 2026-09-21,Nifty Low Volatility 50,INDEX,,,23764.1,23941.15,23754.5,23881.2,,145389015.0,
 2026-09-18,Nifty Low Volatility 50,INDEX,,,23768.15,23827.2,23739.45,23785.4,,253202181.0,
