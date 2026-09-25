@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-25,Nifty Midcap Select,INDEX,,,14034.3,14076.65,13922.25,14027.7,,196900689.0,
 2026-09-24,Nifty Midcap Select,INDEX,,,14336.15,14381.75,14025.7,14040.3,,339041693.0,
 2026-09-23,Nifty Midcap Select,INDEX,,,14554.55,14585.5,14503.35,14572.25,,204125904.0,
 2026-09-22,Nifty Midcap Select,INDEX,,,14528.2,14586.1,14471.65,14544.3,,153944473.0,
@@ -737,4 +738,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-09-28,Nifty Midcap Select,INDEX,,,9205.3,9211.75,8997.75,9014.7,,305791565.0,
 2023-09-27,Nifty Midcap Select,INDEX,,,9158.1,9202.45,9133.1,9189.2,,178975566.0,
 2023-09-26,Nifty Midcap Select,INDEX,,,9186.95,9217.45,9142.3,9149.1,,163531809.0,
-2023-09-25,Nifty Midcap Select,INDEX,,,9070.55,9206.3,8974.9,9188.1,,240698013.0,

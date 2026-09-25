@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-25,Nifty Growth Sectors 15,INDEX,,,10754.5,10830.85,10733.7,10829.3,,21967815.0,
 2026-09-24,Nifty Growth Sectors 15,INDEX,,,10836.5,10890.8,10778.8,10790.95,,21196895.0,
 2026-09-23,Nifty Growth Sectors 15,INDEX,,,10873.55,10898.15,10850.15,10896.4,,17264521.0,
 2026-09-22,Nifty Growth Sectors 15,INDEX,,,10953.75,10978.5,10862.6,10879.4,,22782783.0,
@@ -737,4 +738,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-09-28,Nifty Growth Sectors 15,INDEX,,,10013.75,10017.65,9818.75,9841.1,,55663910.0,
 2023-09-27,Nifty Growth Sectors 15,INDEX,,,9957.2,10017.65,9923.5,10009.3,,35654991.0,
 2023-09-26,Nifty Growth Sectors 15,INDEX,,,9979.3,9986.85,9932.8,9957.95,,34049302.0,
-2023-09-25,Nifty Growth Sectors 15,INDEX,,,9980.6,10015.3,9938.45,9966.35,,39121320.0,

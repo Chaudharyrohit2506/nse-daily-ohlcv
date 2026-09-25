@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-25,Nifty Bank,INDEX,,,55373.75,55762.6,55373.75,55580.4,,145853991.0,
 2026-09-24,Nifty Bank,INDEX,,,55710.6,55918.4,55341.2,55438.5,,261911225.0,
 2026-09-23,Nifty Bank,INDEX,,,56209.65,56623.8,56209.65,56548.9,,203153371.0,
 2026-09-22,Nifty Bank,INDEX,,,56489.9,56671.1,56106.95,56215.55,,130688080.0,
@@ -737,4 +738,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-09-28,Nifty Bank,INDEX,,,44700.35,44756.8,44248.2,44300.95,,389938076.0,
 2023-09-27,Nifty Bank,INDEX,,,44465.9,44668.0,44182.5,44588.3,,221854101.0,
 2023-09-26,Nifty Bank,INDEX,,,44722.5,44773.8,44532.45,44624.2,,188450888.0,
-2023-09-25,Nifty Bank,INDEX,,,44615.0,44936.55,44400.9,44766.1,,266505760.0,

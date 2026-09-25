@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-25,Nifty MidSmallcap400 Momentum Quality 100,INDEX,,,50847.85,50999.95,50584.3,50819.55,,209099282.0,
 2026-09-24,Nifty MidSmallcap400 Momentum Quality 100,INDEX,,,50957.75,51249.4,50696.05,50764.8,,289883567.0,
 2026-09-23,Nifty MidSmallcap400 Momentum Quality 100,INDEX,,,51068.6,51355.1,51057.05,51354.7,,246004326.0,
 2026-09-22,Nifty MidSmallcap400 Momentum Quality 100,INDEX,,,51228.85,51354.6,50857.35,50959.1,,182966623.0,
