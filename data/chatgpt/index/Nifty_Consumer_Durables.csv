@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-29,Nifty Consumer Durables,INDEX,,,38082.25,38139.85,37129.85,37129.95,,27585753.0,
 2026-09-25,Nifty Consumer Durables,INDEX,,,37961.15,38278.6,37804.4,38278.6,,35855284.0,
 2026-09-24,Nifty Consumer Durables,INDEX,,,37989.4,38245.6,37833.4,37916.8,,16340775.0,
 2026-09-23,Nifty Consumer Durables,INDEX,,,38001.75,38220.85,37948.4,38200.2,,19750486.0,
@@ -734,7 +735,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-10-05,Nifty Consumer Durables,INDEX,,,29059.65,29244.6,29032.25,29118.8,,4817983.0,
 2023-10-04,Nifty Consumer Durables,INDEX,,,29057.0,29189.45,28811.55,28955.85,,5727972.0,
 2023-10-03,Nifty Consumer Durables,INDEX,,,28940.85,29308.0,28773.15,29131.2,,6506873.0,
-2023-09-29,Nifty Consumer Durables,INDEX,,,28935.85,29126.1,28862.15,28948.9,,8760445.0,
-2023-09-28,Nifty Consumer Durables,INDEX,,,29262.85,29309.05,28811.85,28871.5,,9443654.0,
-2023-09-27,Nifty Consumer Durables,INDEX,,,29174.45,29225.85,29059.7,29198.15,,6960243.0,
-2023-09-26,Nifty Consumer Durables,INDEX,,,29324.7,29393.0,29162.45,29202.65,,8863202.0,

@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-29,Nifty Midcap150 Momentum 50,INDEX,,,61227.1,61377.2,60758.25,61036.05,,1374032668.0,
 2026-09-25,Nifty Midcap150 Momentum 50,INDEX,,,62694.25,62870.65,62163.3,62422.9,,433707773.0,
 2026-09-24,Nifty Midcap150 Momentum 50,INDEX,,,62949.2,63265.55,62559.2,62620.15,,537726627.0,
 2026-09-23,Nifty Midcap150 Momentum 50,INDEX,,,63087.2,63641.95,63064.7,63637.1,,420536225.0,
@@ -734,7 +735,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-10-05,Nifty Midcap150 Momentum 50,INDEX,,,,,,41464.18,,353635255.0,
 2023-10-04,Nifty Midcap150 Momentum 50,INDEX,,,,,,41617.35,,414734651.0,
 2023-10-03,Nifty Midcap150 Momentum 50,INDEX,,,,,,42427.59,,346069424.0,
-2023-09-29,Nifty Midcap150 Momentum 50,INDEX,,,,,,42207.08,,343699856.0,
-2023-09-28,Nifty Midcap150 Momentum 50,INDEX,,,,,,41704.1,,504836438.0,
-2023-09-27,Nifty Midcap150 Momentum 50,INDEX,,,,,,42252.37,,418224332.0,
-2023-09-26,Nifty Midcap150 Momentum 50,INDEX,,,,,,41706.82,,298509859.0,

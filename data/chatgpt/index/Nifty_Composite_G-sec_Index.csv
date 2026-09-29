@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-29,Nifty Composite G-sec Index,INDEX,,,3099.45,3104.76,3099.45,3104.76,,,
 2026-09-25,Nifty Composite G-sec Index,INDEX,,,3116.6,3116.75,3111.07,3114.89,,,
 2026-09-24,Nifty Composite G-sec Index,INDEX,,,3129.93,3129.94,3115.27,3116.01,,,
 2026-09-23,Nifty Composite G-sec Index,INDEX,,,3133.93,3134.7,3129.34,3129.34,,,
@@ -733,7 +734,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-10-05,Nifty Composite G-sec Index,INDEX,,,2545.1,2548.9,2545.1,2548.9,,,
 2023-10-04,Nifty Composite G-sec Index,INDEX,,,2545.95,2545.95,2542.02,2544.6,,,
 2023-10-03,Nifty Composite G-sec Index,INDEX,,,2549.27,2549.54,2545.45,2545.45,,,
-2023-09-29,Nifty Composite G-sec Index,INDEX,,,2542.67,2550.2,2542.67,2547.25,,,
-2023-09-28,Nifty Composite G-sec Index,INDEX,,,2553.9,2553.9,2542.17,2542.17,,,
-2023-09-27,Nifty Composite G-sec Index,INDEX,,,2556.5,2557.02,2553.4,2553.4,,,
-2023-09-26,Nifty Composite G-sec Index,INDEX,,,2556.24,2556.46,2553.6,2556.0,,,
