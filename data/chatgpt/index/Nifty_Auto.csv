@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-30,Nifty Auto,INDEX,,,26157.2,26503.3,26157.2,26293.95,,54905292.0,
 2026-09-29,Nifty Auto,INDEX,,,26484.1,26509.75,26167.9,26173.35,,62162842.0,
 2026-09-25,Nifty Auto,INDEX,,,26716.6,27006.65,26697.3,26967.9,,56432391.0,
 2026-09-24,Nifty Auto,INDEX,,,27000.5,27092.95,26729.0,26730.1,,50897782.0,

@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-30,Nifty Private Bank,INDEX,,,26345.8,26925.15,26345.15,26695.6,,234392580.0,
 2026-09-29,Nifty Private Bank,INDEX,,,26368.3,26469.5,26136.3,26443.15,,297520087.0,
 2026-09-25,Nifty Private Bank,INDEX,,,26748.85,26949.75,26738.6,26883.2,,127739277.0,
 2026-09-24,Nifty Private Bank,INDEX,,,26946.6,27027.9,26712.45,26763.95,,243249880.0,

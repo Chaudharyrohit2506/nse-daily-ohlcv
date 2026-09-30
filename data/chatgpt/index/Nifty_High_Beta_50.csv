@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-30,Nifty High Beta 50,INDEX,,,4190.25,4222.3,4178.55,4188.65,,928012810.0,
 2026-09-29,Nifty High Beta 50,INDEX,,,4189.55,4207.75,4155.4,4174.6,,1510030176.0,
 2026-09-25,Nifty High Beta 50,INDEX,,,4285.55,4300.75,4268.1,4297.9,,494185592.0,
 2026-09-24,Nifty High Beta 50,INDEX,,,4318.85,4331.6,4277.05,4280.75,,623352962.0,

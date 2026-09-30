@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-09-30,Nifty Mobility,INDEX,,,22146.0,22304.85,22071.05,22160.15,,178741510.0,
 2026-09-29,Nifty Mobility,INDEX,,,22270.9,22277.75,22030.65,22136.35,,184851947.0,
 2026-09-25,Nifty Mobility,INDEX,,,22549.3,22701.05,22523.7,22675.65,,142912453.0,
 2026-09-24,Nifty Mobility,INDEX,,,22788.0,22825.85,22534.25,22538.6,,134100237.0,
