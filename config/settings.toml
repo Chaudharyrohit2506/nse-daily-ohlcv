@@ -3,8 +3,8 @@ path = "data/nse_ohlcv.sqlite3"
 
 [collection]
 keep_series = ["EQ"]
-timeout_seconds = 45
-max_retries = 4
+timeout_seconds = 90
+max_retries = 6
 raw_dir = "data/raw"
 export_dir = "data/exports"
 log_dir = "logs"
