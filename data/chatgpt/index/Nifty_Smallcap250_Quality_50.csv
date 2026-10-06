@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-06,Nifty Smallcap250 Quality 50,INDEX,,,24380.5,24547.25,24339.1,24540.65,,49073618.0,
 2026-10-05,Nifty Smallcap250 Quality 50,INDEX,,,24329.55,24468.55,24187.6,24314.45,,60792405.0,
 2026-10-01,Nifty Smallcap250 Quality 50,INDEX,,,24414.5,24440.5,23921.3,24260.25,,103193289.0,
 2026-09-30,Nifty Smallcap250 Quality 50,INDEX,,,24308.8,24677.35,24306.55,24511.0,,147613373.0,
@@ -734,4 +735,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-10-11,Nifty Smallcap250 Quality 50,INDEX,,,,,,19799.98,,45164313.0,
 2023-10-10,Nifty Smallcap250 Quality 50,INDEX,,,,,,19716.35,,48759319.0,
 2023-10-09,Nifty Smallcap250 Quality 50,INDEX,,,,,,19455.39,,50288177.0,
-2023-10-06,Nifty Smallcap250 Quality 50,INDEX,,,,,,19715.55,,57176481.0,
