@@ -134,6 +134,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-10-10,Nifty Tata Group 25% Cap,INDEX,,,,,,12415.28,,50146764.0,
 2023-10-09,Nifty Tata Group 25% Cap,INDEX,,,,,,12352.63,,49775913.0,
 2023-10-06,Nifty Tata Group 25% Cap,INDEX,,,,,,12443.56,,41365276.0,
-2023-10-05,Nifty Tata Group 25% Cap,INDEX,,,,,,12297.27,,50545733.0,
-2023-10-04,Nifty Tata Group 25% Cap,INDEX,,,,,,12177.2,,61210554.0,
-2023-10-03,Nifty Tata Group 25% Cap,INDEX,,,,,,12275.3,,41654880.0,

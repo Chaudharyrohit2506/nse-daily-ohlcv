@@ -1,4 +1,6 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-05,Nifty Mobility,INDEX,,,21576.1,21698.05,21465.95,21665.7,,171185685.0,
+2026-10-01,Nifty Mobility,INDEX,,,22004.2,22017.75,21297.95,21539.5,,197450709.0,
 2026-09-30,Nifty Mobility,INDEX,,,22146.0,22304.85,22071.05,22160.15,,178741510.0,
 2026-09-29,Nifty Mobility,INDEX,,,22270.9,22277.75,22030.65,22136.35,,184851947.0,
 2026-09-25,Nifty Mobility,INDEX,,,22549.3,22701.05,22523.7,22675.65,,142912453.0,
@@ -733,6 +735,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-10-10,Nifty Mobility,INDEX,,,,,,13289.67,,151762745.0,
 2023-10-09,Nifty Mobility,INDEX,,,,,,13125.75,,138752244.0,
 2023-10-06,Nifty Mobility,INDEX,,,,,,13308.68,,127230301.0,
-2023-10-05,Nifty Mobility,INDEX,,,,,,13255.61,,224858427.0,
-2023-10-04,Nifty Mobility,INDEX,,,,,,13130.42,,150780515.0,
-2023-10-03,Nifty Mobility,INDEX,,,,,,13304.95,,170484126.0,

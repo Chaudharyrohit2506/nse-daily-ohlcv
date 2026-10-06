@@ -134,6 +134,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-10-10,Nifty Mahindra Group,INDEX,,,,,,21348.66,,8092809.0,
 2023-10-09,Nifty Mahindra Group,INDEX,,,,,,21087.94,,7995525.0,
 2023-10-06,Nifty Mahindra Group,INDEX,,,,,,21390.95,,10950400.0,
-2023-10-05,Nifty Mahindra Group,INDEX,,,,,,21217.07,,9112614.0,
-2023-10-04,Nifty Mahindra Group,INDEX,,,,,,21107.68,,15936383.0,
-2023-10-03,Nifty Mahindra Group,INDEX,,,,,,21390.6,,8674346.0,

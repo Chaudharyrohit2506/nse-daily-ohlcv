@@ -134,6 +134,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-10-10,Nifty Tata Group,INDEX,,,,,,15055.49,,60407179.0,
 2023-10-09,Nifty Tata Group,INDEX,,,,,,15017.39,,71135755.0,
 2023-10-06,Nifty Tata Group,INDEX,,,,,,15073.14,,53235483.0,
-2023-10-05,Nifty Tata Group,INDEX,,,,,,14918.64,,57569758.0,
-2023-10-04,Nifty Tata Group,INDEX,,,,,,14752.79,,70889948.0,
-2023-10-03,Nifty Tata Group,INDEX,,,,,,14788.13,,49458588.0,
