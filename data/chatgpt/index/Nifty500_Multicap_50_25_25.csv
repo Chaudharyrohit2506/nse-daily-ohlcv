@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-07,Nifty500 Multicap 50:25:25,INDEX,,,15811.5,15824.5,15708.4,15759.45,,2160179145.0,
 2026-10-06,Nifty500 Multicap 50:25:25,INDEX,,,15708.25,15843.6,15674.45,15842.35,,1982150374.0,
 2026-10-05,Nifty500 Multicap 50:25:25,INDEX,,,15661.15,15728.5,15565.9,15668.8,,2258823899.0,
 2026-10-01,Nifty500 Multicap 50:25:25,INDEX,,,15706.8,15727.0,15415.3,15591.4,,2742935137.0,

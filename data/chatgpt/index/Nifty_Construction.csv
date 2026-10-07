@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-07,Nifty Construction,INDEX,,,,,,11312.23,,50300379.0,
 2026-10-06,Nifty Construction,INDEX,,,,,,11431.25,,52730963.0,
 2026-10-05,Nifty Construction,INDEX,,,,,,11249.12,,51392597.0,
 2026-10-01,Nifty Construction,INDEX,,,,,,11277.71,,107453882.0,
