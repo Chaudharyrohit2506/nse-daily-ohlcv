@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-08,Nifty50 USD,INDEX,,,8092.95,8173.4,7940.85,7959.11,,,
 2026-10-07,Nifty50 USD,INDEX,,,8184.4,8240.95,8056.0,8092.95,,,
 2026-10-06,Nifty50 USD,INDEX,,,8115.85,8185.15,7932.85,8184.41,,,
 2026-10-05,Nifty50 USD,INDEX,,,8068.2,8145.1,7839.85,8115.86,,,

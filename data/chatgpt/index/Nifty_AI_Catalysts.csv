@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-08,Nifty AI Catalysts,INDEX,,,,,,1021.14,,519614184.0,
 2026-10-07,Nifty AI Catalysts,INDEX,,,,,,1053.76,,529904117.0,
 2026-10-06,Nifty AI Catalysts,INDEX,,,,,,1061.81,,497994005.0,
 2026-10-05,Nifty AI Catalysts,INDEX,,,,,,1049.58,,612253501.0,

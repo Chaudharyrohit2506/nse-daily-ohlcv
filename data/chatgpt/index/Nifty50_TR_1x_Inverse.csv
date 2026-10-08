@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-08,Nifty50 TR 1x Inverse,INDEX,,,191.75,195.3,191.75,194.85,,,
 2026-10-07,Nifty50 TR 1x Inverse,INDEX,,,190.95,192.15,190.75,191.7,,,
 2026-10-06,Nifty50 TR 1x Inverse,INDEX,,,191.7,192.05,190.2,190.2,,,
 2026-10-05,Nifty50 TR 1x Inverse,INDEX,,,192.25,193.45,191.5,192.05,,,

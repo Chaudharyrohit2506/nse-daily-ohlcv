@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-08,Nifty200 Momentum 30,INDEX,,,29674.4,29676.8,28822.65,28841.4,,498816621.0,
 2026-10-07,Nifty200 Momentum 30,INDEX,,,29824.6,29854.8,29557.05,29687.9,,528870177.0,
 2026-10-06,Nifty200 Momentum 30,INDEX,,,29522.1,29912.25,29477.4,29907.3,,498111763.0,
 2026-10-05,Nifty200 Momentum 30,INDEX,,,29385.25,29599.75,29229.55,29447.9,,597374723.0,

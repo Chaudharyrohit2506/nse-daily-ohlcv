@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-08,Nifty500 Momentum 50,INDEX,,,53635.45,53636.15,52140.45,52171.5,,456381974.0,
 2026-10-07,Nifty500 Momentum 50,INDEX,,,53803.35,53836.25,53405.3,53657.4,,528371693.0,
 2026-10-06,Nifty500 Momentum 50,INDEX,,,53184.75,53860.15,53077.35,53824.9,,509989294.0,
 2026-10-05,Nifty500 Momentum 50,INDEX,,,52894.6,53221.4,52521.7,52958.85,,592742785.0,
