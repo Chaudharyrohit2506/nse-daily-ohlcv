@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-09,Nifty EV & New Age Automotive,INDEX,,,2914.95,2940.7,2889.7,2928.35,,139799114.0,
 2026-10-08,Nifty EV & New Age Automotive,INDEX,,,2978.15,2978.95,2905.45,2906.9,,250752376.0,
 2026-10-07,Nifty EV & New Age Automotive,INDEX,,,3000.15,3004.0,2970.65,2979.9,,142092687.0,
 2026-10-06,Nifty EV & New Age Automotive,INDEX,,,2987.2,3008.1,2974.95,3007.55,,134486565.0,

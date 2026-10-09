@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-09,Nifty 10 yr Benchmark G-Sec,INDEX,,,2620.9,2625.61,2616.75,2618.74,,,
 2026-10-08,Nifty 10 yr Benchmark G-Sec,INDEX,,,2629.7,2630.59,2620.09,2620.4,,,
 2026-10-07,Nifty 10 yr Benchmark G-Sec,INDEX,,,2636.14,2636.15,2624.87,2629.21,,,
 2026-10-06,Nifty 10 yr Benchmark G-Sec,INDEX,,,2632.44,2635.64,2630.69,2635.64,,,
@@ -735,4 +736,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-10-12,Nifty 10 yr Benchmark G-Sec,INDEX,,,2179.63,2182.22,2178.63,2180.37,,,
 2023-10-11,Nifty 10 yr Benchmark G-Sec,INDEX,,,2172.57,2180.32,2172.57,2179.2,,,
 2023-10-10,Nifty 10 yr Benchmark G-Sec,INDEX,,,2166.96,2173.42,2166.96,2172.14,,,
-2023-10-09,Nifty 10 yr Benchmark G-Sec,INDEX,,,2173.6,2173.6,2166.53,2166.53,,,

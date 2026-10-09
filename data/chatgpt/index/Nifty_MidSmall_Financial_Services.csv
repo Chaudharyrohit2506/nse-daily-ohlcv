@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-09,Nifty MidSmall Financial Services,INDEX,,,20720.6,21044.2,20684.0,20980.85,,136770628.0,
 2026-10-08,Nifty MidSmall Financial Services,INDEX,,,21036.6,21036.6,20650.3,20683.6,,192926080.0,
 2026-10-07,Nifty MidSmall Financial Services,INDEX,,,21075.45,21208.7,20943.3,21073.4,,199540395.0,
 2026-10-06,Nifty MidSmall Financial Services,INDEX,,,21020.9,21133.3,20943.7,21133.3,,157376520.0,
@@ -736,4 +737,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-10-12,Nifty MidSmall Financial Services,INDEX,,,,,,11587.73,,154499725.0,
 2023-10-11,Nifty MidSmall Financial Services,INDEX,,,,,,11590.19,,243908629.0,
 2023-10-10,Nifty MidSmall Financial Services,INDEX,,,,,,11554.27,,246334218.0,
-2023-10-09,Nifty MidSmall Financial Services,INDEX,,,,,,11348.36,,236414475.0,

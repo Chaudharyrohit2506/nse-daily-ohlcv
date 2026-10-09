@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-09,Nifty Top 15 Equal Weight,INDEX,,,9028.15,9166.05,9028.05,9138.95,,150852513.0,
 2026-10-08,Nifty Top 15 Equal Weight,INDEX,,,9121.75,9121.75,8969.4,8996.2,,185278986.0,
 2026-10-07,Nifty Top 15 Equal Weight,INDEX,,,9139.25,9169.75,9097.9,9116.7,,207197291.0,
 2026-10-06,Nifty Top 15 Equal Weight,INDEX,,,9095.25,9169.25,9086.4,9169.25,,161266120.0,

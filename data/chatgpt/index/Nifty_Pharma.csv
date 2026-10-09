@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-09,Nifty Pharma,INDEX,,,25855.3,26035.25,25657.65,25962.05,,12804542.0,
 2026-10-08,Nifty Pharma,INDEX,,,26462.15,26501.4,25763.05,25823.25,,17423483.0,
 2026-10-07,Nifty Pharma,INDEX,,,26518.7,26656.4,26357.3,26436.55,,18646861.0,
 2026-10-06,Nifty Pharma,INDEX,,,26133.35,26554.15,26025.45,26549.6,,19475128.0,
@@ -736,4 +737,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-10-12,Nifty Pharma,INDEX,,,15243.8,15269.65,15137.05,15186.2,,15167883.0,
 2023-10-11,Nifty Pharma,INDEX,,,15136.75,15257.85,15136.45,15176.6,,14391419.0,
 2023-10-10,Nifty Pharma,INDEX,,,15114.25,15142.05,15055.3,15106.7,,11768926.0,
-2023-10-09,Nifty Pharma,INDEX,,,15002.7,15186.6,14993.05,15103.85,,13029281.0,

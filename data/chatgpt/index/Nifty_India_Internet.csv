@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-09,Nifty India Internet,INDEX,,,1345.5,1361.6,1339.55,1354.9,,115809917.0,
 2026-10-08,Nifty India Internet,INDEX,,,1378.5,1378.6,1341.05,1341.55,,157326948.0,
 2026-10-07,Nifty India Internet,INDEX,,,1379.85,1398.35,1370.15,1386.85,,223333094.0,
 2026-10-06,Nifty India Internet,INDEX,,,1354.85,1379.8,1350.3,1379.35,,223543149.0,

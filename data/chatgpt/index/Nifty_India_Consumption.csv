@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-09,Nifty India Consumption,INDEX,,,10788.05,10939.65,10768.3,10903.45,,82790231.0,
 2026-10-08,Nifty India Consumption,INDEX,,,10966.65,10974.95,10723.45,10741.2,,119761109.0,
 2026-10-07,Nifty India Consumption,INDEX,,,11029.5,11031.35,10951.75,10976.65,,126335964.0,
 2026-10-06,Nifty India Consumption,INDEX,,,10981.05,11074.35,10938.05,11074.35,,97961747.0,
@@ -736,4 +737,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-10-12,Nifty India Consumption,INDEX,,,8594.85,8601.95,8559.0,8581.45,,45239595.0,
 2023-10-11,Nifty India Consumption,INDEX,,,8526.05,8580.65,8520.3,8571.0,,47676358.0,
 2023-10-10,Nifty India Consumption,INDEX,,,8455.65,8504.7,8451.95,8496.3,,47979246.0,
-2023-10-09,Nifty India Consumption,INDEX,,,8424.1,8462.1,8399.25,8435.0,,41753001.0,
