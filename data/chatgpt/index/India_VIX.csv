@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-12,India VIX,INDEX,,,14.375,15.5425,13.14,15.25,,,
 2026-10-09,India VIX,INDEX,,,15.275,15.275,13.6625,14.38,,,
 2026-10-08,India VIX,INDEX,,,13.885,15.48,11.9675,15.28,,,
 2026-10-07,India VIX,INDEX,,,13.6075,14.315,13.6075,13.89,,,
@@ -734,6 +735,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-10-17,India VIX,INDEX,,,11.07,11.07,10.4275,10.7,,,
 2023-10-16,India VIX,INDEX,,,10.6175,11.1525,9.1525,11.07,,,
 2023-10-13,India VIX,INDEX,,,10.6175,11.025,10.4025,10.62,,,
-2023-10-12,India VIX,INDEX,,,10.985,11.1175,10.565,10.62,,,
-2023-10-11,India VIX,INDEX,,,11.27,11.3225,10.39,10.99,,,
-2023-10-10,India VIX,INDEX,,,11.4,11.4,10.855,11.27,,,

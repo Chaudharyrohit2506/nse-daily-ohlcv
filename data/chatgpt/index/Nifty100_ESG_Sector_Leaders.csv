@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-12,Nifty100 ESG Sector Leaders,INDEX,,,3761.0,3772.5,3717.85,3727.4,,243466717.0,
 2026-10-09,Nifty100 ESG Sector Leaders,INDEX,,,3722.7,3759.75,3714.7,3750.8,,256887399.0,
 2026-10-08,Nifty100 ESG Sector Leaders,INDEX,,,3772.85,3773.2,3701.9,3709.55,,355092419.0,
 2026-10-07,Nifty100 ESG Sector Leaders,INDEX,,,3794.15,3795.0,3765.55,3773.1,,301949096.0,
@@ -734,6 +735,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-10-17,Nifty100 ESG Sector Leaders,INDEX,,,3231.05,3236.7,3224.55,3228.25,,139769367.0,
 2023-10-16,Nifty100 ESG Sector Leaders,INDEX,,,3218.3,3227.55,3214.25,3219.8,,123266494.0,
 2023-10-13,Nifty100 ESG Sector Leaders,INDEX,,,3201.25,3226.9,3197.2,3220.25,,168755543.0,
-2023-10-12,Nifty100 ESG Sector Leaders,INDEX,,,3242.4,3244.7,3224.05,3227.6,,176159056.0,
-2023-10-11,Nifty100 ESG Sector Leaders,INDEX,,,3235.45,3251.05,3233.95,3240.0,,144186193.0,
-2023-10-10,Nifty100 ESG Sector Leaders,INDEX,,,3202.25,3228.25,3201.1,3224.15,,138138539.0,
