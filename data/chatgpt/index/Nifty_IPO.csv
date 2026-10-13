@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-13,Nifty IPO,INDEX,,,2415.75,2418.9,2389.6,2415.45,,459494814.0,
 2026-10-12,Nifty IPO,INDEX,,,2437.6,2440.2,2406.0,2408.45,,590454094.0,
 2026-10-09,Nifty IPO,INDEX,,,2425.8,2440.85,2389.0,2429.9,,759041778.0,
 2026-10-08,Nifty IPO,INDEX,,,2493.1,2494.5,2408.35,2421.1,,714554515.0,
