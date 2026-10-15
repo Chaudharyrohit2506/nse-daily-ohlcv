@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-15,Nifty Housing,INDEX,,,11070.6,11196.55,11042.95,11148.1,,997719972.0,
 2026-10-14,Nifty Housing,INDEX,,,11047.3,11111.15,10995.25,11073.2,,465592141.0,
 2026-10-13,Nifty Housing,INDEX,,,10924.1,11061.15,10862.75,11060.95,,280403132.0,
 2026-10-12,Nifty Housing,INDEX,,,11027.8,11067.4,10897.9,10927.55,,279903262.0,

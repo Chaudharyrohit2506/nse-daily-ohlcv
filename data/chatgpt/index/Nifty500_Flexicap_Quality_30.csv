@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-15,Nifty500 Flexicap Quality 30,INDEX,,,9591.55,9649.35,9578.7,9588.6,,125745281.0,
 2026-10-14,Nifty500 Flexicap Quality 30,INDEX,,,9528.65,9569.6,9511.45,9556.6,,118678377.0,
 2026-10-13,Nifty500 Flexicap Quality 30,INDEX,,,9355.55,9530.3,9320.95,9528.3,,128190102.0,
 2026-10-12,Nifty500 Flexicap Quality 30,INDEX,,,9361.4,9412.35,9313.6,9332.55,,72082500.0,

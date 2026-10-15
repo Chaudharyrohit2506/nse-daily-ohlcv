@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-15,Nifty India New Age Consumption,INDEX,,,11126.2,11255.55,11093.7,11234.6,,549609115.0,
 2026-10-14,Nifty India New Age Consumption,INDEX,,,11185.35,11202.3,11102.7,11121.75,,530031507.0,
 2026-10-13,Nifty India New Age Consumption,INDEX,,,11052.2,11196.6,10998.6,11196.6,,528963308.0,
 2026-10-12,Nifty India New Age Consumption,INDEX,,,11065.0,11124.7,11031.8,11065.3,,622265970.0,

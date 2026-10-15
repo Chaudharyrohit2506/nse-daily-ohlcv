@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-15,Nifty 4-8 yr G-Sec Index,INDEX,,,3282.89,3285.56,3278.38,3278.38,,,
 2026-10-14,Nifty 4-8 yr G-Sec Index,INDEX,,,3289.37,3289.41,3281.53,3282.3,,,
 2026-10-13,Nifty 4-8 yr G-Sec Index,INDEX,,,3286.06,3291.23,3286.06,3288.77,,,
 2026-10-12,Nifty 4-8 yr G-Sec Index,INDEX,,,3298.67,3298.7,3285.47,3285.47,,,
