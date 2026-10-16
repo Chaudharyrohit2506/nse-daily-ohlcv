@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-16,Nifty Financial Services 25/50,INDEX,,,27270.15,27299.7,26964.0,27211.0,,157602852.0,
 2026-10-15,Nifty Financial Services 25/50,INDEX,,,26862.1,27272.7,26776.85,27223.85,,163379209.0,
 2026-10-14,Nifty Financial Services 25/50,INDEX,,,27063.85,27093.5,26727.45,26795.85,,146194277.0,
 2026-10-13,Nifty Financial Services 25/50,INDEX,,,26696.25,27152.9,26587.4,27124.9,,141904902.0,
@@ -736,4 +737,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-10-19,Nifty Financial Services 25/50,INDEX,,,20363.15,20555.6,20314.85,20452.7,,82989128.0,
 2023-10-18,Nifty Financial Services 25/50,INDEX,,,20737.95,20740.25,20473.05,20506.95,,84572938.0,
 2023-10-17,Nifty Financial Services 25/50,INDEX,,,20748.5,20782.45,20723.15,20757.4,,81685552.0,
-2023-10-16,Nifty Financial Services 25/50,INDEX,,,20586.4,20660.1,20519.55,20613.8,,74721049.0,
