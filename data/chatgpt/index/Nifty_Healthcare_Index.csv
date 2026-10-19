@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-19,Nifty Healthcare Index,INDEX,,,15677.45,15811.25,15527.65,15557.6,,15774945.0,
 2026-10-16,Nifty Healthcare Index,INDEX,,,15755.85,15766.3,15594.75,15683.55,,19233243.0,
 2026-10-15,Nifty Healthcare Index,INDEX,,,15628.65,15814.5,15585.0,15724.4,,16515582.0,
 2026-10-14,Nifty Healthcare Index,INDEX,,,15850.95,15859.2,15577.7,15663.0,,21969944.0,
@@ -734,6 +735,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-10-25,Nifty Healthcare Index,INDEX,,,9448.45,9462.35,9284.0,9325.1,,24722291.0,
 2023-10-23,Nifty Healthcare Index,INDEX,,,9503.95,9586.6,9401.65,9417.85,,35602956.0,
 2023-10-20,Nifty Healthcare Index,INDEX,,,9595.3,9602.05,9502.4,9531.15,,21500935.0,
-2023-10-19,Nifty Healthcare Index,INDEX,,,9618.55,9632.95,9558.75,9612.95,,22181711.0,
-2023-10-18,Nifty Healthcare Index,INDEX,,,9611.9,9689.4,9591.25,9642.3,,41902783.0,
-2023-10-17,Nifty Healthcare Index,INDEX,,,9617.5,9650.5,9584.5,9601.4,,14034258.0,
