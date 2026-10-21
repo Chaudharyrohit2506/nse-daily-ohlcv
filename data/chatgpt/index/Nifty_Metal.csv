@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-21,Nifty Metal,INDEX,,,12128.25,12154.55,11765.3,11859.55,,101776157.0,
 2026-10-19,Nifty Metal,INDEX,,,12141.7,12196.05,12021.0,12066.4,,55339519.0,
 2026-10-16,Nifty Metal,INDEX,,,12057.15,12197.85,11995.05,12133.2,,99164775.0,
 2026-10-15,Nifty Metal,INDEX,,,11948.05,12061.1,11852.25,12018.5,,87990743.0,
@@ -734,4 +735,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-10-26,Nifty Metal,INDEX,,,6466.3,6472.8,6348.7,6398.05,,93608580.0,
 2023-10-25,Nifty Metal,INDEX,,,6552.25,6610.15,6460.8,6503.65,,98517190.0,
 2023-10-23,Nifty Metal,INDEX,,,6725.0,6729.2,6480.1,6494.0,,104474714.0,
-2023-10-20,Nifty Metal,INDEX,,,6782.5,6823.4,6694.1,6712.75,,87367361.0,
