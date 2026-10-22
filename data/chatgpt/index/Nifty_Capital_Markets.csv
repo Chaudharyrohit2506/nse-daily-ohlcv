@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-22,Nifty Capital Markets,INDEX,,,5056.9,5066.3,4992.35,5056.35,,28421326.0,
 2026-10-21,Nifty Capital Markets,INDEX,,,5211.1,5218.5,5052.25,5072.6,,35205371.0,
 2026-10-19,Nifty Capital Markets,INDEX,,,5236.4,5274.1,5182.4,5190.85,,37592115.0,
 2026-10-16,Nifty Capital Markets,INDEX,,,5329.15,5331.55,5209.1,5242.05,,89423998.0,

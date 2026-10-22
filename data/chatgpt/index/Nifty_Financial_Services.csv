@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-22,Nifty Financial Services,INDEX,,,24526.15,24725.2,24425.3,24657.7,,157061322.0,
 2026-10-21,Nifty Financial Services,INDEX,,,25098.15,25118.3,24569.4,24691.45,,134108395.0,
 2026-10-19,Nifty Financial Services,INDEX,,,25349.75,25363.25,24911.2,24987.1,,143740058.0,
 2026-10-16,Nifty Financial Services,INDEX,,,25409.6,25429.85,25139.05,25387.1,,157602852.0,

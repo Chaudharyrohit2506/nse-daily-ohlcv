@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-22,Nifty India Digital,INDEX,,,8571.6,8604.15,8475.45,8509.65,,1015536019.0,
 2026-10-21,Nifty India Digital,INDEX,,,8614.9,8678.6,8511.55,8599.15,,765328429.0,
 2026-10-19,Nifty India Digital,INDEX,,,8646.65,8673.65,8529.15,8552.4,,472472770.0,
 2026-10-16,Nifty India Digital,INDEX,,,8518.75,8670.3,8505.0,8670.15,,550554013.0,

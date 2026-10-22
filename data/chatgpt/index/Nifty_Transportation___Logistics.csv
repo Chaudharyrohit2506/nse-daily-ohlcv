@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-22,Nifty Transportation & Logistics,INDEX,,,23407.0,23591.4,23205.65,23378.2,,174490113.0,
 2026-10-21,Nifty Transportation & Logistics,INDEX,,,24042.6,24139.55,23326.15,23614.0,,106973811.0,
 2026-10-19,Nifty Transportation & Logistics,INDEX,,,24164.5,24251.5,23959.55,23996.15,,69372798.0,
 2026-10-16,Nifty Transportation & Logistics,INDEX,,,24058.9,24212.05,23940.7,24157.45,,79388635.0,

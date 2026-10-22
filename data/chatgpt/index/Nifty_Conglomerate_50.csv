@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-22,Nifty Conglomerate 50,INDEX,,,13799.25,13902.7,13669.6,13872.05,,647517672.0,
 2026-10-21,Nifty Conglomerate 50,INDEX,,,14091.95,14108.4,13798.75,13909.45,,692793735.0,
 2026-10-19,Nifty Conglomerate 50,INDEX,,,14139.3,14206.5,14006.25,14037.6,,427782675.0,
 2026-10-16,Nifty Conglomerate 50,INDEX,,,14034.25,14166.1,13947.9,14134.0,,473209284.0,
