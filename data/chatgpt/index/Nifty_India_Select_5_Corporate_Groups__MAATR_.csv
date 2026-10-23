@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-23,Nifty India Select 5 Corporate Groups (MAATR),INDEX,,,35783.15,35826.1,34903.15,35381.2,,883892467.0,
 2026-10-22,Nifty India Select 5 Corporate Groups (MAATR),INDEX,,,35851.6,35913.2,35464.6,35807.5,,915937896.0,
 2026-10-21,Nifty India Select 5 Corporate Groups (MAATR),INDEX,,,36380.0,36591.75,35783.65,36092.8,,688658182.0,
 2026-10-19,Nifty India Select 5 Corporate Groups (MAATR),INDEX,,,36532.7,36729.0,36133.3,36224.95,,425745728.0,

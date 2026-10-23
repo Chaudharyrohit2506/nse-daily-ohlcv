@@ -1,3 +1,2 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
 2023-10-25,SONAMCLOCK,EQUITY,EQ,INE00LM01011,82.0,82.0,77.0,78.15,,99870.0,7931154.85
-2023-10-23,SONAMCLOCK,EQUITY,EQ,INE00LM01011,83.0,86.0,80.05,80.55,,308339.0,25252291.55

@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-23,Nifty Smallcap 250,INDEX,,,16819.5,16843.3,16232.05,16385.15,,1129615270.0,
 2026-10-22,Nifty Smallcap 250,INDEX,,,16950.65,17012.2,16756.75,16856.2,,848151503.0,
 2026-10-21,Nifty Smallcap 250,INDEX,,,17465.8,17476.5,16946.75,17041.95,,649586591.0,
 2026-10-19,Nifty Smallcap 250,INDEX,,,17634.0,17639.45,17412.7,17435.15,,522809413.0,
@@ -735,4 +736,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-10-27,Nifty Smallcap 250,INDEX,,,11886.45,12051.55,11885.85,12024.9,,908681975.0,
 2023-10-26,Nifty Smallcap 250,INDEX,,,11807.95,11825.9,11493.75,11797.15,,932485018.0,
 2023-10-25,Nifty Smallcap 250,INDEX,,,12003.75,12080.3,11703.65,11853.7,,1019463836.0,
-2023-10-23,Nifty Smallcap 250,INDEX,,,12442.4,12456.1,11894.3,11930.4,,1033773203.0,

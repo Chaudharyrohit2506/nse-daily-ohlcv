@@ -1,0 +1,2 @@
+trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-23,NITYAS,EQUITY,EQ,INE211501023,76.33,76.33,61.2,68.89,74.74,1024905.0,69955734.19
