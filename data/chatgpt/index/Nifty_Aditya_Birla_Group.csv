@@ -120,5 +120,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-10-31,Nifty Aditya Birla Group,INDEX,,,,,,6120.22,,333917700.0,
 2023-10-30,Nifty Aditya Birla Group,INDEX,,,,,,6090.97,,373714130.0,
 2023-10-27,Nifty Aditya Birla Group,INDEX,,,,,,5982.24,,217763636.0,
-2023-10-26,Nifty Aditya Birla Group,INDEX,,,,,,5964.65,,180578654.0,
-2023-10-25,Nifty Aditya Birla Group,INDEX,,,,,,6016.71,,273295119.0,

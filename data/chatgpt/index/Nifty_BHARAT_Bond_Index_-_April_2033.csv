@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-26,Nifty BHARAT Bond Index - April 2033,INDEX,,,1255.07,1255.36,1255.07,1255.36,,,
 2026-10-23,Nifty BHARAT Bond Index - April 2033,INDEX,,,1255.34,1255.35,1254.27,1254.27,,,
 2026-10-22,Nifty BHARAT Bond Index - April 2033,INDEX,,,1261.8,1261.81,1255.08,1255.08,,,
 2026-10-21,Nifty BHARAT Bond Index - April 2033,INDEX,,,1265.23,1265.24,1261.54,1261.54,,,

@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-26,Nifty500 Ahimsa,INDEX,,,,,,3461.11,,1850907832.0,
 2026-10-19,Nifty500 Ahimsa,INDEX,,,,,,3526.03,,1083369408.0,
 2026-10-13,Nifty500 Ahimsa,INDEX,,,,,,3523.78,,1334784606.0,
 2026-10-12,Nifty500 Ahimsa,INDEX,,,,,,3477.79,,1429244556.0,

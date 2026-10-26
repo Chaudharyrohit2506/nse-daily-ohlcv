@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-26,Nifty India Defence,INDEX,,,8515.25,8665.8,8447.55,8661.95,,74211491.0,
 2026-10-23,Nifty India Defence,INDEX,,,8775.2,8782.35,8476.25,8561.2,,32025705.0,
 2026-10-22,Nifty India Defence,INDEX,,,8814.4,8844.2,8655.6,8789.7,,25379014.0,
 2026-10-21,Nifty India Defence,INDEX,,,9127.45,9139.0,8811.0,8897.2,,28985552.0,
@@ -734,5 +735,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-10-31,Nifty India Defence,INDEX,,,,,,3184.31,,16762031.0,
 2023-10-30,Nifty India Defence,INDEX,,,,,,3164.99,,15169495.0,
 2023-10-27,Nifty India Defence,INDEX,,,,,,3198.34,,22697584.0,
-2023-10-26,Nifty India Defence,INDEX,,,,,,3121.67,,34065731.0,
-2023-10-25,Nifty India Defence,INDEX,,,,,,3087.06,,20156492.0,

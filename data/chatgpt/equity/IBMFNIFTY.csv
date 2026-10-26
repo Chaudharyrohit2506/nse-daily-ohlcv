@@ -1,2 +1,0 @@
-trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
-2023-10-25,IBMFNIFTY,EQUITY,EQ,INF666M01FS5,206.0,206.0,200.01,202.26,,594.0,121435.84
