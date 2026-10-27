@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-27,Nifty Total Market,INDEX,,,12200.15,12309.65,12177.35,12282.4,,4089533077.0,
 2026-10-26,Nifty Total Market,INDEX,,,12054.45,12205.35,11970.1,12205.35,,4079578262.0,
 2026-10-23,Nifty Total Market,INDEX,,,12267.85,12273.65,11979.4,12105.3,,4652412298.0,
 2026-10-22,Nifty Total Market,INDEX,,,12276.4,12320.8,12176.45,12262.9,,4816516367.0,
@@ -734,4 +735,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-11-01,Nifty Total Market,INDEX,,,9440.25,9454.9,9390.3,9398.15,,3171440639.0,
 2023-10-31,Nifty Total Market,INDEX,,,9495.3,9495.45,9426.9,9435.35,,2426064782.0,
 2023-10-30,Nifty Total Market,INDEX,,,9425.85,9454.75,9356.9,9448.2,,2777143988.0,
-2023-10-27,Nifty Total Market,INDEX,,,9339.45,9429.85,9338.65,9414.3,,2727369692.0,

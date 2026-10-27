@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-27,Nifty India Corporate Group Index - Tata Group 25% Cap,INDEX,,,13569.9,13753.35,13548.75,13721.5,,72590080.0,
 2026-10-26,Nifty India Corporate Group Index - Tata Group 25% Cap,INDEX,,,13516.65,13649.55,13397.4,13591.6,,63251238.0,
 2026-10-23,Nifty India Corporate Group Index - Tata Group 25% Cap,INDEX,,,13811.8,13867.5,13420.9,13600.85,,75035925.0,
 2026-10-22,Nifty India Corporate Group Index - Tata Group 25% Cap,INDEX,,,13739.95,13783.85,13641.4,13757.8,,62366734.0,

@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-27,Nifty500 Healthcare,INDEX,,,20358.9,20824.2,20339.4,20751.7,,51997756.0,
 2026-10-26,Nifty500 Healthcare,INDEX,,,19955.45,20335.95,19904.0,20330.8,,40339427.0,
 2026-10-23,Nifty500 Healthcare,INDEX,,,20107.1,20150.95,19702.6,19948.55,,30922590.0,
 2026-10-22,Nifty500 Healthcare,INDEX,,,19977.65,20168.7,19783.85,20132.7,,29227876.0,

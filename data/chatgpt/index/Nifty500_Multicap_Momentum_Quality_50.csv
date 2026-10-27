@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-27,Nifty500 Multicap Momentum Quality 50,INDEX,,,37807.8,38469.45,37804.4,38456.6,,145462123.0,
 2026-10-26,Nifty500 Multicap Momentum Quality 50,INDEX,,,37020.95,37745.0,36632.65,37732.9,,97059759.0,
 2026-10-23,Nifty500 Multicap Momentum Quality 50,INDEX,,,37737.25,37789.35,36556.4,37092.55,,127926211.0,
 2026-10-22,Nifty500 Multicap Momentum Quality 50,INDEX,,,38100.75,38102.25,37505.85,37861.3,,93040210.0,

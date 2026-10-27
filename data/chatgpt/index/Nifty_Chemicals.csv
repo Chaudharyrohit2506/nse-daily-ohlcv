@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-27,Nifty Chemicals,INDEX,,,26363.35,26848.1,26305.0,26827.45,,16762354.0,
 2026-10-26,Nifty Chemicals,INDEX,,,26238.1,26409.9,25978.85,26353.4,,23809495.0,
 2026-10-23,Nifty Chemicals,INDEX,,,26933.55,26935.75,26094.45,26325.0,,11975287.0,
 2026-10-22,Nifty Chemicals,INDEX,,,27028.55,27041.75,26565.9,26950.65,,12735194.0,

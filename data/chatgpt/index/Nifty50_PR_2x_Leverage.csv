@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-27,Nifty50 PR 2x Leverage,INDEX,,,10458.5,10570.1,10392.3,10496.25,,,
 2026-10-26,Nifty50 PR 2x Leverage,INDEX,,,10291.25,10501.1,10165.6,10501.1,,,
 2026-10-23,Nifty50 PR 2x Leverage,INDEX,,,10496.55,10537.75,10155.7,10365.6,,,
 2026-10-22,Nifty50 PR 2x Leverage,INDEX,,,10448.0,10537.9,10325.2,10447.9,,,
@@ -734,4 +735,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-11-01,Nifty50 PR 2x Leverage,INDEX,,,9265.0,9296.05,9177.6,9192.15,,,
 2023-10-31,Nifty50 PR 2x Leverage,INDEX,,,9431.6,9431.6,9259.45,9281.85,,,
 2023-10-30,Nifty50 PR 2x Leverage,INDEX,,,9258.4,9359.45,9148.3,9343.5,,,
-2023-10-27,Nifty50 PR 2x Leverage,INDEX,,,9143.55,9285.05,9142.45,9257.7,,,

@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-27,Nifty PSU Bank,INDEX,,,8099.25,8191.85,8085.3,8126.7,,164456351.0,
 2026-10-26,Nifty PSU Bank,INDEX,,,8022.8,8094.0,7939.55,8093.8,,122466903.0,
 2026-10-23,Nifty PSU Bank,INDEX,,,8252.6,8260.25,8020.15,8070.7,,133530167.0,
 2026-10-22,Nifty PSU Bank,INDEX,,,8232.85,8267.45,8144.75,8257.4,,120948835.0,
@@ -734,4 +735,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-11-01,Nifty PSU Bank,INDEX,,,4941.05,4976.4,4916.05,4950.05,,208974007.0,
 2023-10-31,Nifty PSU Bank,INDEX,,,4954.45,5001.1,4926.2,4934.4,,235875339.0,
 2023-10-30,Nifty PSU Bank,INDEX,,,4941.45,4945.5,4872.7,4927.4,,244751580.0,
-2023-10-27,Nifty PSU Bank,INDEX,,,4777.0,4949.25,4772.5,4920.55,,514765130.0,
