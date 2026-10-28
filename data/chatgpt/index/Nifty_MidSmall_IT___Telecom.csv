@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-28,Nifty MidSmall IT & Telecom,INDEX,,,10046.85,10137.45,9949.15,10073.95,,45889913.0,
 2026-10-27,Nifty MidSmall IT & Telecom,INDEX,,,10117.9,10199.6,10055.95,10196.95,,50801773.0,
 2026-10-26,Nifty MidSmall IT & Telecom,INDEX,,,9794.6,10160.1,9768.65,10153.45,,66791680.0,
 2026-10-23,Nifty MidSmall IT & Telecom,INDEX,,,10091.3,10195.1,9868.75,9921.45,,175111161.0,
