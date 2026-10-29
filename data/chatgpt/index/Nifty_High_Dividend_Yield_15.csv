@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-29,Nifty High Dividend Yield 15,INDEX,,,,,,21771.81,,77154796.0,
 2026-10-28,Nifty High Dividend Yield 15,INDEX,,,,,,21572.29,,68867992.0,
 2026-10-27,Nifty High Dividend Yield 15,INDEX,,,,,,21811.77,,136079705.0,
 2026-10-26,Nifty High Dividend Yield 15,INDEX,,,,,,21801.27,,83876752.0,

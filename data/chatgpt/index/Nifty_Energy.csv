@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-29,Nifty Energy,INDEX,,,34909.55,35395.65,34830.25,35299.0,,470691533.0,
 2026-10-28,Nifty Energy,INDEX,,,35208.9,35221.6,34838.65,34946.3,,263856910.0,
 2026-10-27,Nifty Energy,INDEX,,,34974.95,35340.2,34928.05,35261.85,,411195092.0,
 2026-10-26,Nifty Energy,INDEX,,,34422.75,35026.9,34119.8,35022.35,,351668718.0,

@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-29,Nifty India Defence Equal Weight,INDEX,,,,,,8349.34,,30127978.0,
 2026-10-28,Nifty India Defence Equal Weight,INDEX,,,,,,8241.04,,36075372.0,
 2026-10-27,Nifty India Defence Equal Weight,INDEX,,,,,,8274.94,,108001500.0,
 2026-10-26,Nifty India Defence Equal Weight,INDEX,,,,,,8118.43,,74211491.0,

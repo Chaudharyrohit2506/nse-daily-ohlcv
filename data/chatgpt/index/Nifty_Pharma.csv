@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-29,Nifty Pharma,INDEX,,,26548.75,26721.8,26467.65,26710.8,,41848916.0,
 2026-10-28,Nifty Pharma,INDEX,,,26226.9,26585.85,26067.1,26541.35,,134883728.0,
 2026-10-27,Nifty Pharma,INDEX,,,25810.75,26313.85,25790.1,26267.25,,26279001.0,
 2026-10-26,Nifty Pharma,INDEX,,,25352.75,25782.5,25296.35,25774.25,,28211573.0,

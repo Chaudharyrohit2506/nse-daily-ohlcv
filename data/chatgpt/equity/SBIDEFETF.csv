@@ -1,0 +1,2 @@
+trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-29,SBIDEFETF,EQUITY,EQ,INF200KB1CJ6,73.0,74.39,72.7,74.29,72.58,13037.0,960287.53

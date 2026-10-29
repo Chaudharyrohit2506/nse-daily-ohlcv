@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-29,Nifty BHARAT Bond Index - April 2032,INDEX,,,1301.56,1302.78,1301.56,1302.78,,,
 2026-10-28,Nifty BHARAT Bond Index - April 2032,INDEX,,,1301.04,1301.3,1300.94,1301.3,,,
 2026-10-27,Nifty BHARAT Bond Index - April 2032,INDEX,,,1300.59,1300.79,1300.59,1300.79,,,
 2026-10-26,Nifty BHARAT Bond Index - April 2032,INDEX,,,1300.9,1300.92,1300.33,1300.33,,,

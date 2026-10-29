@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-29,Nifty Rural,INDEX,,,13978.0,14160.9,13939.8,14145.35,,569730751.0,
 2026-10-28,Nifty Rural,INDEX,,,13897.8,13986.65,13796.4,13970.6,,528251875.0,
 2026-10-27,Nifty Rural,INDEX,,,13817.3,13941.85,13800.7,13925.55,,706673074.0,
 2026-10-26,Nifty Rural,INDEX,,,13720.9,13825.0,13562.35,13825.0,,736526571.0,

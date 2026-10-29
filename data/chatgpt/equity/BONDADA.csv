@@ -1,0 +1,2 @@
+trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-29,BONDADA,EQUITY,EQ,INE0Q8P01029,287.0,287.0,268.85,273.4,279.0,60390.0,16869269.75
