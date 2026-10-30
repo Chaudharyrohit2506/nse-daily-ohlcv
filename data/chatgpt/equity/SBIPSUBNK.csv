@@ -1,0 +1,2 @@
+trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-30,SBIPSUBNK,EQUITY,EQ,INF200KB1712,48.18,48.54,47.6,47.92,48.18,20303.0,977860.7

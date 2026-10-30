@@ -1,0 +1,2 @@
+trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-30,SBIPVTBNK,EQUITY,EQ,INF200KA1S22,281.19,281.19,275.43,275.77,276.03,3437.0,949035.38

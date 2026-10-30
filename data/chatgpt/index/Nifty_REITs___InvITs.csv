@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-30,Nifty REITs & InvITs,INDEX,,,,,,1359.27,,6965631.0,
 2026-10-29,Nifty REITs & InvITs,INDEX,,,,,,1351.04,,6669456.0,
 2026-10-28,Nifty REITs & InvITs,INDEX,,,,,,1349.77,,10845683.0,
 2026-10-27,Nifty REITs & InvITs,INDEX,,,,,,1355.77,,6765190.0,
@@ -736,4 +737,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-11-02,Nifty REITs & InvITs,INDEX,,,,,,979.06,,1941493.0,
 2023-11-01,Nifty REITs & InvITs,INDEX,,,,,,978.74,,2054963.0,
 2023-10-31,Nifty REITs & InvITs,INDEX,,,,,,976.59,,3266778.0,
-2023-10-30,Nifty REITs & InvITs,INDEX,,,,,,971.51,,1921371.0,

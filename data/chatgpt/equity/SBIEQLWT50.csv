@@ -1,0 +1,2 @@
+trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-30,SBIEQLWT50,EQUITY,EQ,INF200KB1282,31.62,31.84,31.47,31.8,31.62,18074.0,573233.41

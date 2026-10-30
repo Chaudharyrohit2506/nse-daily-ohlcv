@@ -1,0 +1,2 @@
+trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-30,ARHAM,EQUITY,EQ,INE0L2Y01011,211.95,218.7,200.0,208.95,204.95,392466.0,83473150.3

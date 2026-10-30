@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-10-30,NIFTY Alpha Low-Volatility 30,INDEX,,,24907.4,25037.6,24779.85,24957.7,,110361200.0,
 2026-10-29,NIFTY Alpha Low-Volatility 30,INDEX,,,24684.5,24923.55,24640.2,24908.25,,99932687.0,
 2026-10-28,NIFTY Alpha Low-Volatility 30,INDEX,,,24689.8,24771.15,24512.95,24723.9,,98737426.0,
 2026-10-27,NIFTY Alpha Low-Volatility 30,INDEX,,,24512.35,24734.1,24500.7,24680.5,,114301725.0,
@@ -736,4 +737,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-11-02,NIFTY Alpha Low-Volatility 30,INDEX,,,19682.8,19815.6,19664.7,19802.2,,162545247.0,
 2023-11-01,NIFTY Alpha Low-Volatility 30,INDEX,,,19654.3,19674.75,19504.3,19522.4,,140140590.0,
 2023-10-31,NIFTY Alpha Low-Volatility 30,INDEX,,,19614.5,19648.8,19502.15,19613.25,,122955916.0,
-2023-10-30,NIFTY Alpha Low-Volatility 30,INDEX,,,19551.45,19581.2,19369.15,19553.8,,76347756.0,
