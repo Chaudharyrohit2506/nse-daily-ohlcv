@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-02,Nifty Non-Cyclical Consumer,INDEX,,,14411.9,14538.9,14409.75,14520.85,,424067862.0,
 2026-10-30,Nifty Non-Cyclical Consumer,INDEX,,,14353.35,14399.7,14268.1,14361.2,,377351150.0,
 2026-10-29,Nifty Non-Cyclical Consumer,INDEX,,,14089.45,14341.2,14073.8,14321.85,,375385828.0,
 2026-10-28,Nifty Non-Cyclical Consumer,INDEX,,,14089.35,14144.25,13934.45,14093.9,,408190371.0,
@@ -734,6 +735,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-11-07,Nifty Non-Cyclical Consumer,INDEX,,,,,,12252.65,,184621320.0,
 2023-11-06,Nifty Non-Cyclical Consumer,INDEX,,,,,,12217.01,,234609466.0,
 2023-11-03,Nifty Non-Cyclical Consumer,INDEX,,,,,,12128.6,,288300489.0,
-2023-11-02,Nifty Non-Cyclical Consumer,INDEX,,,,,,12006.29,,93672175.0,
-2023-11-01,Nifty Non-Cyclical Consumer,INDEX,,,,,,11878.93,,102126255.0,
-2023-10-31,Nifty Non-Cyclical Consumer,INDEX,,,,,,11926.76,,104765486.0,

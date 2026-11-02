@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-02,Nifty Low Volatility 50,INDEX,,,23362.8,23544.0,23348.9,23544.0,,280064525.0,
 2026-10-30,Nifty Low Volatility 50,INDEX,,,23142.3,23318.45,23071.3,23279.05,,249124309.0,
 2026-10-29,Nifty Low Volatility 50,INDEX,,,22853.05,23143.65,22849.35,23125.95,,255109614.0,
 2026-10-28,Nifty Low Volatility 50,INDEX,,,22862.8,22917.75,22689.3,22873.4,,216162212.0,
@@ -734,6 +735,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-11-07,Nifty Low Volatility 50,INDEX,,,,,,18490.21,,205619796.0,
 2023-11-06,Nifty Low Volatility 50,INDEX,,,,,,18429.87,,171171170.0,
 2023-11-03,Nifty Low Volatility 50,INDEX,,,,,,18264.7,,142329244.0,
-2023-11-02,Nifty Low Volatility 50,INDEX,,,,,,18201.0,,194505684.0,
-2023-11-01,Nifty Low Volatility 50,INDEX,,,,,,18029.05,,174555176.0,
-2023-10-31,Nifty Low Volatility 50,INDEX,,,,,,18137.11,,172555290.0,
