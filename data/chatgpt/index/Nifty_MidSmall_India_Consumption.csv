@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-04,Nifty MidSmall India Consumption,INDEX,,,17607.15,17913.4,17538.35,17906.05,,70501853.0,
 2026-11-03,Nifty MidSmall India Consumption,INDEX,,,17448.8,17614.85,17392.9,17611.1,,74921465.0,
 2026-11-02,Nifty MidSmall India Consumption,INDEX,,,17109.45,17323.25,17109.45,17311.3,,58963489.0,
 2026-10-30,Nifty MidSmall India Consumption,INDEX,,,17177.25,17179.3,17009.55,17087.85,,78286203.0,

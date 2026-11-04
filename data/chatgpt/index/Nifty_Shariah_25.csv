@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-04,Nifty Shariah 25,INDEX,,,7833.85,7892.0,7818.8,7869.15,,79750213.0,
 2026-11-03,Nifty Shariah 25,INDEX,,,7791.65,7864.45,7746.35,7864.45,,79991823.0,
 2026-11-02,Nifty Shariah 25,INDEX,,,7680.45,7757.05,7668.4,7757.05,,66958945.0,
 2026-10-30,Nifty Shariah 25,INDEX,,,7644.7,7713.15,7625.15,7661.6,,78558611.0,

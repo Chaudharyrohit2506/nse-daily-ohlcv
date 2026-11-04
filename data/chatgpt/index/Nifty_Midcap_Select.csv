@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-04,Nifty Midcap Select,INDEX,,,13540.1,13712.65,13472.7,13712.65,,331196634.0,
 2026-11-03,Nifty Midcap Select,INDEX,,,13449.75,13560.9,13377.95,13560.9,,341826632.0,
 2026-11-02,Nifty Midcap Select,INDEX,,,13256.1,13399.8,13229.1,13366.7,,301265855.0,
 2026-10-30,Nifty Midcap Select,INDEX,,,13353.25,13363.9,13171.45,13184.5,,529460547.0,

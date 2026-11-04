@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-04,Nifty Midcap 150,INDEX,,,21505.5,21872.55,21443.35,21867.3,,685031652.0,
 2026-11-03,Nifty Midcap 150,INDEX,,,21436.55,21525.6,21352.15,21523.35,,645694458.0,
 2026-11-02,Nifty Midcap 150,INDEX,,,21103.8,21341.55,21103.65,21310.75,,562542303.0,
 2026-10-30,Nifty Midcap 150,INDEX,,,21233.45,21234.15,21007.65,21047.5,,802694059.0,
