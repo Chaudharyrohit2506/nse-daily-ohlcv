@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-05,India VIX,INDEX,,,15.1875,15.9575,11.62,15.58,,,
 2026-11-04,India VIX,INDEX,,,15.7225,16.145,15.125,15.19,,,
 2026-11-03,India VIX,INDEX,,,15.5,16.2225,14.2525,15.72,,,
 2026-11-02,India VIX,INDEX,,,15.3025,15.9225,14.5475,15.5,,,

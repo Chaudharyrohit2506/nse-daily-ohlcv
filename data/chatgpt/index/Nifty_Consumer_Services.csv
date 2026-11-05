@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-05,Nifty Consumer Services,INDEX,,,,,,3696.11,,328353260.0,
 2026-11-04,Nifty Consumer Services,INDEX,,,,,,3600.19,,114740095.0,
 2026-11-03,Nifty Consumer Services,INDEX,,,,,,3583.79,,112138572.0,
 2026-11-02,Nifty Consumer Services,INDEX,,,,,,3552.59,,110821774.0,

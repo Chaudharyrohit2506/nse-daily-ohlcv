@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-05,Nifty Healthcare Index,INDEX,,,16783.4,16840.35,16573.05,16818.25,,33021336.0,
 2026-11-04,Nifty Healthcare Index,INDEX,,,16555.05,16710.6,16543.9,16701.55,,38015233.0,
 2026-11-03,Nifty Healthcare Index,INDEX,,,16500.25,16582.35,16365.2,16580.4,,29224928.0,
 2026-11-02,Nifty Healthcare Index,INDEX,,,16484.7,16541.45,16372.45,16479.15,,27654527.0,
