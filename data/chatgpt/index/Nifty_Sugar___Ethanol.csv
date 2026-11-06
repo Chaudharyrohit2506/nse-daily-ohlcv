@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-06,Nifty Sugar & Ethanol,INDEX,,,,,,2456.86,,16506056.0,
 2026-11-05,Nifty Sugar & Ethanol,INDEX,,,,,,2497.19,,21633177.0,
 2026-11-04,Nifty Sugar & Ethanol,INDEX,,,,,,2494.04,,31306239.0,
 2026-11-03,Nifty Sugar & Ethanol,INDEX,,,,,,2404.55,,49546462.0,

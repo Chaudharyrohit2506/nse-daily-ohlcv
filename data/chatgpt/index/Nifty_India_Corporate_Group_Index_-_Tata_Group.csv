@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-06,Nifty India Corporate Group Index - Tata Group,INDEX,,,,,,14935.93,,272058129.0,
 2026-11-05,Nifty India Corporate Group Index - Tata Group,INDEX,,,,,,14811.3,,100572197.0,
 2026-11-04,Nifty India Corporate Group Index - Tata Group,INDEX,,,,,,14481.13,,66067161.0,
 2026-11-03,Nifty India Corporate Group Index - Tata Group,INDEX,,,,,,14448.88,,61516961.0,

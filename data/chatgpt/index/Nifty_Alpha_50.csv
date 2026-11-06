@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-06,Nifty Alpha 50,INDEX,,,52505.25,52779.6,51818.8,52725.95,,550957578.0,
 2026-11-05,Nifty Alpha 50,INDEX,,,54029.65,54046.85,53308.4,53399.4,,731602934.0,
 2026-11-04,Nifty Alpha 50,INDEX,,,52456.85,53634.55,52080.8,53579.8,,538851740.0,
 2026-11-03,Nifty Alpha 50,INDEX,,,52907.3,53131.95,52489.6,52635.45,,500243416.0,
@@ -736,4 +737,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-11-09,Nifty Alpha 50,INDEX,,,37128.55,37183.2,36972.65,37023.1,,354384282.0,
 2023-11-08,Nifty Alpha 50,INDEX,,,36743.25,37067.15,36727.35,36976.15,,441353901.0,
 2023-11-07,Nifty Alpha 50,INDEX,,,36505.0,36564.5,36311.65,36518.7,,465717474.0,
-2023-11-06,Nifty Alpha 50,INDEX,,,36397.25,36438.6,36236.8,36381.95,,283573123.0,

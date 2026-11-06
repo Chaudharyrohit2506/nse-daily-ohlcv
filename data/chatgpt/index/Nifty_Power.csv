@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-06,Nifty Power,INDEX,,,,,,8377.35,,174273122.0,
 2026-11-05,Nifty Power,INDEX,,,,,,8372.53,,270932459.0,
 2026-11-04,Nifty Power,INDEX,,,,,,8328.27,,272579659.0,
 2026-11-03,Nifty Power,INDEX,,,,,,8194.68,,219451525.0,
