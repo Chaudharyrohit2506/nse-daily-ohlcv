@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-09,Nifty Insurance,INDEX,,,,,,1785.3,,16032857.0,
 2026-11-06,Nifty Insurance,INDEX,,,,,,1796.26,,24734180.0,
 2026-11-05,Nifty Insurance,INDEX,,,,,,1771.56,,27283526.0,
 2026-11-04,Nifty Insurance,INDEX,,,,,,1745.11,,20314874.0,

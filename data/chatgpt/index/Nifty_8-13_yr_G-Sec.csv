@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-09,Nifty 8-13 yr G-Sec,INDEX,,,3030.61,3036.17,3030.61,3035.1,,,
 2026-11-06,Nifty 8-13 yr G-Sec,INDEX,,,3036.5,3041.52,3027.64,3028.85,,,
 2026-11-05,Nifty 8-13 yr G-Sec,INDEX,,,3020.54,3053.47,3020.54,3035.93,,,
 2026-11-04,Nifty 8-13 yr G-Sec,INDEX,,,3002.41,3019.97,3002.41,3019.97,,,
@@ -733,6 +734,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-11-15,Nifty 8-13 yr G-Sec,INDEX,,,2479.68,2489.98,2479.68,2489.41,,,
 2023-11-13,Nifty 8-13 yr G-Sec,INDEX,,,2476.47,2479.55,2475.9,2478.69,,,
 2023-11-10,Nifty 8-13 yr G-Sec,INDEX,,,2480.18,2480.18,2474.62,2474.99,,,
-2023-11-09,Nifty 8-13 yr G-Sec,INDEX,,,2480.55,2483.54,2479.7,2479.7,,,
-2023-11-08,Nifty 8-13 yr G-Sec,INDEX,,,2477.04,2480.63,2477.04,2480.06,,,
-2023-11-07,Nifty 8-13 yr G-Sec,INDEX,,,2473.0,2476.56,2471.77,2476.56,,,

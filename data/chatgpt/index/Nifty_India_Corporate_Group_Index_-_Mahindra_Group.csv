@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-09,Nifty India Corporate Group Index - Mahindra Group,INDEX,,,,,,37305.55,,7614356.0,
 2026-11-06,Nifty India Corporate Group Index - Mahindra Group,INDEX,,,,,,37412.63,,15693766.0,
 2026-11-05,Nifty India Corporate Group Index - Mahindra Group,INDEX,,,,,,36253.82,,22923721.0,
 2026-11-04,Nifty India Corporate Group Index - Mahindra Group,INDEX,,,,,,34721.91,,9244225.0,
