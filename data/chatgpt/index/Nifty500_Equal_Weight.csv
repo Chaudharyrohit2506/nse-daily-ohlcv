@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-11,Nifty500 Equal Weight,INDEX,,,14510.0,14636.3,14493.5,14561.4,,3126091736.0,
 2026-11-09,Nifty500 Equal Weight,INDEX,,,14412.05,14417.7,14313.45,14410.75,,2228171609.0,
 2026-11-06,Nifty500 Equal Weight,INDEX,,,14249.1,14297.4,14123.85,14290.4,,3162344158.0,
 2026-11-05,Nifty500 Equal Weight,INDEX,,,14365.0,14393.2,14321.2,14343.05,,3173448359.0,

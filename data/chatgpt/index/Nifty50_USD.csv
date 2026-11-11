@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-11,Nifty50 USD,INDEX,,,9238.25,9461.95,9238.25,9340.0,,,
 2026-11-09,Nifty50 USD,INDEX,,,9218.75,9381.0,9149.8,9238.28,,,
 2026-11-06,Nifty50 USD,INDEX,,,8999.85,9234.6,8919.5,9234.97,,,
 2026-11-05,Nifty50 USD,INDEX,,,8771.85,9036.25,8663.05,8999.85,,,
@@ -714,4 +715,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-11-16,Nifty50 USD,INDEX,,,,,,8227.96,,,
 2023-11-15,Nifty50 USD,INDEX,,,,,,8199.47,,,
 2023-11-13,Nifty50 USD,INDEX,,,,,,8085.31,,,
-2023-11-10,Nifty50 USD,INDEX,,,,,,8074.84,,,
