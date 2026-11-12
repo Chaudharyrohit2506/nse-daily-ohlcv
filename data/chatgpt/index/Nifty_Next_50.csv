@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-12,Nifty Next 50,INDEX,,,73552.05,73948.8,73238.55,73481.25,,640497061.0,
 2026-11-11,Nifty Next 50,INDEX,,,73379.0,73771.55,73099.05,73486.2,,874605419.0,
 2026-11-09,Nifty Next 50,INDEX,,,72135.95,72802.5,71864.15,72789.45,,527554301.0,
 2026-11-06,Nifty Next 50,INDEX,,,71304.65,71688.8,70641.0,71657.8,,572980931.0,

@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-12,Nifty Services Sector,INDEX,,,32549.9,32781.1,32430.7,32700.65,,260123468.0,
 2026-11-11,Nifty Services Sector,INDEX,,,32852.5,32987.9,32432.7,32657.25,,348635749.0,
 2026-11-09,Nifty Services Sector,INDEX,,,32575.35,32580.6,32200.5,32494.7,,276236071.0,
 2026-11-06,Nifty Services Sector,INDEX,,,32252.75,32612.75,32064.95,32612.75,,371148998.0,

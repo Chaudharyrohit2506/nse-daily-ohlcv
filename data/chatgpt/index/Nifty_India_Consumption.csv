@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-12,Nifty India Consumption,INDEX,,,12052.05,12113.4,11968.25,12009.6,,93403821.0,
 2026-11-11,Nifty India Consumption,INDEX,,,12055.2,12126.65,11992.9,12082.5,,117691549.0,
 2026-11-09,Nifty India Consumption,INDEX,,,11945.7,11958.65,11836.65,11935.55,,73697572.0,
 2026-11-06,Nifty India Consumption,INDEX,,,11820.85,11957.25,11729.45,11957.25,,118136858.0,

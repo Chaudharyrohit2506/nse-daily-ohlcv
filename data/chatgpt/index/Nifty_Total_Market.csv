@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-12,Nifty Total Market,INDEX,,,13416.75,13509.0,13382.15,13468.75,,3230970557.0,
 2026-11-11,Nifty Total Market,INDEX,,,13418.0,13480.4,13350.3,13416.75,,4032857601.0,
 2026-11-09,Nifty Total Market,INDEX,,,13281.15,13291.85,13192.75,13291.85,,2786081161.0,
 2026-11-06,Nifty Total Market,INDEX,,,13068.3,13228.55,12980.25,13226.4,,3975682660.0,
