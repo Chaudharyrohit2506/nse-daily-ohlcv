@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-13,Nifty100 Equal Weight,INDEX,,,35085.45,35189.9,34801.55,34901.95,,895885155.0,
 2026-11-12,Nifty100 Equal Weight,INDEX,,,35150.9,35346.5,35045.95,35172.6,,989695064.0,
 2026-11-11,Nifty100 Equal Weight,INDEX,,,35135.05,35322.6,34962.1,35161.65,,1332650160.0,
 2026-11-09,Nifty100 Equal Weight,INDEX,,,34737.25,34821.45,34538.75,34818.35,,933744286.0,
@@ -735,4 +736,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-11-17,Nifty100 Equal Weight,INDEX,,,23675.8,23864.85,23653.5,23804.15,,511307933.0,
 2023-11-16,Nifty100 Equal Weight,INDEX,,,23618.7,23793.9,23545.6,23714.15,,500734356.0,
 2023-11-15,Nifty100 Equal Weight,INDEX,,,23577.4,23612.2,23498.05,23602.05,,570431298.0,
-2023-11-13,Nifty100 Equal Weight,INDEX,,,23355.15,23374.65,23284.0,23362.45,,404054582.0,

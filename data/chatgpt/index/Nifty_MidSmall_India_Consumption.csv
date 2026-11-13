@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-13,Nifty MidSmall India Consumption,INDEX,,,18434.2,18535.65,18294.85,18380.85,,61619782.0,
 2026-11-12,Nifty MidSmall India Consumption,INDEX,,,18372.05,18584.35,18306.2,18473.05,,58430278.0,
 2026-11-11,Nifty MidSmall India Consumption,INDEX,,,18428.05,18507.3,18239.95,18377.3,,102423313.0,
 2026-11-09,Nifty MidSmall India Consumption,INDEX,,,18300.65,18356.1,18152.8,18355.3,,69279462.0,
@@ -735,4 +736,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-11-17,Nifty MidSmall India Consumption,INDEX,,,,,,13920.18,,66162460.0,
 2023-11-16,Nifty MidSmall India Consumption,INDEX,,,,,,13851.29,,33950843.0,
 2023-11-15,Nifty MidSmall India Consumption,INDEX,,,,,,13722.55,,41788406.0,
-2023-11-13,Nifty MidSmall India Consumption,INDEX,,,,,,13621.89,,29658337.0,
