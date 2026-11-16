@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-16,Nifty Core Housing,INDEX,,,15263.05,15319.2,15172.4,15281.5,,25854663.0,
 2026-11-13,Nifty Core Housing,INDEX,,,15369.1,15386.5,15153.7,15225.1,,27442035.0,
 2026-11-12,Nifty Core Housing,INDEX,,,15256.85,15465.2,15207.65,15400.2,,29487806.0,
 2026-11-11,Nifty Core Housing,INDEX,,,15270.65,15372.4,15160.7,15266.35,,36012304.0,
@@ -734,5 +735,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-11-21,Nifty Core Housing,INDEX,,,,,,12869.85,,28693847.0,
 2023-11-20,Nifty Core Housing,INDEX,,,,,,12789.39,,30305763.0,
 2023-11-17,Nifty Core Housing,INDEX,,,,,,12847.71,,61331331.0,
-2023-11-16,Nifty Core Housing,INDEX,,,,,,12761.22,,36147520.0,
-2023-11-15,Nifty Core Housing,INDEX,,,,,,12669.87,,51794553.0,
