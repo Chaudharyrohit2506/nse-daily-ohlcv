@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-17,Nifty India Manufacturing,INDEX,,,15841.8,15967.8,15824.9,15917.2,,279997937.0,
 2026-11-16,Nifty India Manufacturing,INDEX,,,16066.85,16077.15,15801.05,15870.65,,272084268.0,
 2026-11-13,Nifty India Manufacturing,INDEX,,,16104.95,16188.35,15994.9,16049.45,,208042634.0,
 2026-11-12,Nifty India Manufacturing,INDEX,,,16206.05,16285.7,16104.6,16146.55,,257053363.0,
@@ -734,4 +735,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-11-22,Nifty India Manufacturing,INDEX,,,10052.15,10081.75,10012.4,10073.4,,180478045.0,
 2023-11-21,Nifty India Manufacturing,INDEX,,,10009.6,10049.8,10002.25,10038.4,,166055752.0,
 2023-11-20,Nifty India Manufacturing,INDEX,,,10023.65,10039.2,9956.4,9972.1,,134505540.0,
-2023-11-17,Nifty India Manufacturing,INDEX,,,9967.6,10038.85,9961.1,10011.35,,206423708.0,

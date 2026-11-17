@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-17,Nifty 15 yr and above G-Sec Index,INDEX,,,3522.86,3539.36,3522.86,3539.36,,,
 2026-11-16,Nifty 15 yr and above G-Sec Index,INDEX,,,3520.15,3522.12,3514.6,3522.12,,,
 2026-11-13,Nifty 15 yr and above G-Sec Index,INDEX,,,3534.25,3534.25,3512.96,3517.91,,,
 2026-11-12,Nifty 15 yr and above G-Sec Index,INDEX,,,3542.2,3542.2,3533.12,3533.51,,,
@@ -733,4 +734,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-11-22,Nifty 15 yr and above G-Sec Index,INDEX,,,2965.75,2968.01,2965.38,2968.01,,,
 2023-11-21,Nifty 15 yr and above G-Sec Index,INDEX,,,2969.92,2970.9,2965.16,2965.16,,,
 2023-11-20,Nifty 15 yr and above G-Sec Index,INDEX,,,2977.8,2981.67,2969.33,2969.33,,,
-2023-11-17,Nifty 15 yr and above G-Sec Index,INDEX,,,2976.08,2983.22,2974.68,2976.0,,,

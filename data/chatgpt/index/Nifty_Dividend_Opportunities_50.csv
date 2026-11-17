@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-17,Nifty Dividend Opportunities 50,INDEX,,,5870.25,5913.4,5865.2,5873.7,,575622545.0,
 2026-11-16,Nifty Dividend Opportunities 50,INDEX,,,5887.1,5901.3,5853.55,5882.3,,405035472.0,
 2026-11-13,Nifty Dividend Opportunities 50,INDEX,,,5896.9,5910.45,5847.8,5868.95,,378393158.0,
 2026-11-12,Nifty Dividend Opportunities 50,INDEX,,,5915.65,5942.75,5895.9,5910.3,,457285452.0,
@@ -734,4 +735,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-11-22,Nifty Dividend Opportunities 50,INDEX,,,4789.8,4804.7,4771.75,4802.2,,292553919.0,
 2023-11-21,Nifty Dividend Opportunities 50,INDEX,,,4807.15,4813.1,4781.05,4786.7,,350028616.0,
 2023-11-20,Nifty Dividend Opportunities 50,INDEX,,,4799.35,4812.8,4785.8,4789.7,,313393220.0,
-2023-11-17,Nifty Dividend Opportunities 50,INDEX,,,4779.95,4808.5,4779.45,4791.1,,471380800.0,

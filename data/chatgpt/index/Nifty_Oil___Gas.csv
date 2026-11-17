@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-17,Nifty Oil & Gas,INDEX,,,11343.85,11457.2,11332.9,11410.6,,63528802.0,
 2026-11-16,Nifty Oil & Gas,INDEX,,,11333.7,11361.7,11255.2,11360.1,,49400383.0,
 2026-11-13,Nifty Oil & Gas,INDEX,,,11349.25,11411.0,11272.05,11312.45,,63212928.0,
 2026-11-12,Nifty Oil & Gas,INDEX,,,11459.35,11463.15,11339.2,11389.35,,89296890.0,
@@ -734,4 +735,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-11-22,Nifty Oil & Gas,INDEX,,,8087.3,8150.65,8061.35,8106.6,,72540402.0,
 2023-11-21,Nifty Oil & Gas,INDEX,,,8111.0,8127.85,8070.4,8078.8,,69695706.0,
 2023-11-20,Nifty Oil & Gas,INDEX,,,8093.65,8109.6,8053.05,8072.25,,45983691.0,
-2023-11-17,Nifty Oil & Gas,INDEX,,,8164.15,8214.05,8074.15,8082.3,,114892772.0,
