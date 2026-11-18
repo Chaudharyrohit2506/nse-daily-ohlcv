@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-18,Nifty Media,INDEX,,,1773.0,1793.05,1765.65,1782.8,,21936083.0,
 2026-11-17,Nifty Media,INDEX,,,1758.3,1788.45,1752.65,1774.65,,26597544.0,
 2026-11-16,Nifty Media,INDEX,,,1767.55,1772.6,1750.4,1763.3,,36881602.0,
 2026-11-13,Nifty Media,INDEX,,,1761.8,1775.5,1751.65,1757.7,,58468833.0,

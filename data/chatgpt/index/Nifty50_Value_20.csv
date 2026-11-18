@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-18,Nifty50 Value 20,INDEX,,,12408.8,12437.4,12342.3,12400.4,,220042506.0,
 2026-11-17,Nifty50 Value 20,INDEX,,,12375.25,12473.45,12368.75,12433.75,,236860248.0,
 2026-11-16,Nifty50 Value 20,INDEX,,,12363.6,12412.95,12345.85,12403.15,,255571272.0,
 2026-11-13,Nifty50 Value 20,INDEX,,,12407.85,12408.45,12311.3,12353.6,,157808990.0,

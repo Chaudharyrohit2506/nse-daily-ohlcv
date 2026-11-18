@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-18,Nifty Telecommunications,INDEX,,,,,,3733.83,,318244047.0,
 2026-11-17,Nifty Telecommunications,INDEX,,,,,,3725.94,,305098187.0,
 2026-11-16,Nifty Telecommunications,INDEX,,,,,,3793.56,,312077968.0,
 2026-11-13,Nifty Telecommunications,INDEX,,,,,,3791.94,,478522278.0,
