@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-19,Nifty Hospitals,INDEX,,,,,,4341.52,,5806693.0,
 2026-11-18,Nifty Hospitals,INDEX,,,,,,4303.79,,6294622.0,
 2026-11-17,Nifty Hospitals,INDEX,,,,,,4327.38,,10745286.0,
 2026-11-16,Nifty Hospitals,INDEX,,,,,,4308.34,,16308235.0,

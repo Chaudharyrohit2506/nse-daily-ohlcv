@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-19,Nifty PSE,INDEX,,,9346.65,9516.1,9341.65,9516.1,,152518823.0,
 2026-11-18,Nifty PSE,INDEX,,,9404.65,9424.1,9309.4,9368.7,,154424109.0,
 2026-11-17,Nifty PSE,INDEX,,,9461.75,9499.4,9415.6,9439.25,,153922744.0,
 2026-11-16,Nifty PSE,INDEX,,,9507.2,9507.55,9404.4,9483.8,,139757463.0,

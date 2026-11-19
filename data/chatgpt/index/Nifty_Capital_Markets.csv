@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-19,Nifty Capital Markets,INDEX,,,5777.5,5812.2,5707.85,5787.9,,106032679.0,
 2026-11-18,Nifty Capital Markets,INDEX,,,5900.25,5961.15,5758.5,5783.0,,92357582.0,
 2026-11-17,Nifty Capital Markets,INDEX,,,5881.4,6033.75,5867.8,5898.65,,154776694.0,
 2026-11-16,Nifty Capital Markets,INDEX,,,5918.9,5921.95,5844.25,5870.8,,38161756.0,

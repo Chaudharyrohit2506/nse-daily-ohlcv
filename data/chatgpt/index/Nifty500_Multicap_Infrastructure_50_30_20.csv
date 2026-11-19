@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-19,Nifty500 Multicap Infrastructure 50:30:20,INDEX,,,14531.4,14702.1,14512.5,14697.4,,356671099.0,
 2026-11-18,Nifty500 Multicap Infrastructure 50:30:20,INDEX,,,14589.7,14629.4,14482.65,14544.0,,342589655.0,
 2026-11-17,Nifty500 Multicap Infrastructure 50:30:20,INDEX,,,14575.4,14683.7,14547.45,14613.45,,369837799.0,
 2026-11-16,Nifty500 Multicap Infrastructure 50:30:20,INDEX,,,14594.75,14623.1,14507.45,14590.8,,374383870.0,
