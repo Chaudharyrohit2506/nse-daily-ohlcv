@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-20,Nifty Retail,INDEX,,,,,,3165.77,,205634244.0,
 2026-11-19,Nifty Retail,INDEX,,,,,,3162.31,,216658341.0,
 2026-11-18,Nifty Retail,INDEX,,,,,,3131.13,,249921621.0,
 2026-11-17,Nifty Retail,INDEX,,,,,,3168.43,,274511535.0,

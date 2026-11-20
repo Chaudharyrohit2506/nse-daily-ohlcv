@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-20,Nifty Small Finance Banks & Microfinance Institutions,INDEX,,,,,,1189.97,,39522409.0,
 2026-11-19,Nifty Small Finance Banks & Microfinance Institutions,INDEX,,,,,,1186.95,,28395121.0,
 2026-11-18,Nifty Small Finance Banks & Microfinance Institutions,INDEX,,,,,,1204.36,,30101045.0,
 2026-11-17,Nifty Small Finance Banks & Microfinance Institutions,INDEX,,,,,,1227.11,,33785459.0,

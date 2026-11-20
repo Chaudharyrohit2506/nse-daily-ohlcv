@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-20,Nifty Financial Services Ex-Bank,INDEX,,,31777.7,32245.45,31572.15,32245.45,,123786940.0,
 2026-11-19,Nifty Financial Services Ex-Bank,INDEX,,,31755.6,31979.35,31574.05,31972.05,,129267820.0,
 2026-11-18,Nifty Financial Services Ex-Bank,INDEX,,,32300.5,32438.1,31841.9,31918.8,,121930994.0,
 2026-11-17,Nifty Financial Services Ex-Bank,INDEX,,,32406.15,32791.25,32333.5,32495.35,,164564435.0,
@@ -736,4 +737,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-11-23,Nifty Financial Services Ex-Bank,INDEX,,,,,,21106.24,,70425683.0,
 2023-11-22,Nifty Financial Services Ex-Bank,INDEX,,,,,,21136.13,,72626107.0,
 2023-11-21,Nifty Financial Services Ex-Bank,INDEX,,,,,,21141.1,,101933181.0,
-2023-11-20,Nifty Financial Services Ex-Bank,INDEX,,,,,,21080.27,,75582295.0,
