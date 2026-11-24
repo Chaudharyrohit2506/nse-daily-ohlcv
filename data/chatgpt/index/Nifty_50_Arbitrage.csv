@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-23,Nifty 50 Arbitrage,INDEX,,,,,,2770.29,,,
 2026-11-20,Nifty 50 Arbitrage,INDEX,,,,,,2771.63,,,
 2026-11-19,Nifty 50 Arbitrage,INDEX,,,,,,2768.4,,,
 2026-11-18,Nifty 50 Arbitrage,INDEX,,,,,,2768.77,,,
@@ -733,6 +734,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-11-29,Nifty 50 Arbitrage,INDEX,,,,,,2237.45,,,
 2023-11-28,Nifty 50 Arbitrage,INDEX,,,,,,2236.41,,,
 2023-11-24,Nifty 50 Arbitrage,INDEX,,,,,,2236.95,,,
-2023-11-23,Nifty 50 Arbitrage,INDEX,,,,,,2234.3,,,
-2023-11-22,Nifty 50 Arbitrage,INDEX,,,,,,2233.77,,,
-2023-11-21,Nifty 50 Arbitrage,INDEX,,,,,,2234.68,,,

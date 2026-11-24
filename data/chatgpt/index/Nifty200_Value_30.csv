@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-23,Nifty200 Value 30,INDEX,,,15105.2,15128.2,14676.1,14686.0,,511938065.0,
 2026-11-20,Nifty200 Value 30,INDEX,,,14867.2,15085.4,14793.85,15085.4,,442035089.0,
 2026-11-19,Nifty200 Value 30,INDEX,,,14697.85,14974.5,14693.6,14974.5,,374938970.0,
 2026-11-18,Nifty200 Value 30,INDEX,,,14779.75,14784.0,14661.45,14736.15,,323601597.0,

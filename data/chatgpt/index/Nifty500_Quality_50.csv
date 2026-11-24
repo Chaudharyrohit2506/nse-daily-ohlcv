@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-23,Nifty500 Quality 50,INDEX,,,19013.3,19075.85,18846.1,18847.6,,169762992.0,
 2026-11-20,Nifty500 Quality 50,INDEX,,,18802.05,19001.1,18758.65,18918.2,,175002509.0,
 2026-11-19,Nifty500 Quality 50,INDEX,,,18684.6,18907.2,18624.3,18899.2,,170861402.0,
 2026-11-18,Nifty500 Quality 50,INDEX,,,18938.65,18961.8,18696.55,18727.65,,134782722.0,

@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-23,Nifty Services Sector,INDEX,,,33294.3,33368.75,32707.65,32707.65,,310959432.0,
 2026-11-20,Nifty Services Sector,INDEX,,,32450.4,33065.1,32393.65,33026.4,,346161499.0,
 2026-11-19,Nifty Services Sector,INDEX,,,32385.0,32602.1,32200.35,32602.1,,245994682.0,
 2026-11-18,Nifty Services Sector,INDEX,,,32672.4,32813.0,32411.8,32496.6,,222299510.0,
@@ -734,6 +735,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-11-29,Nifty Services Sector,INDEX,,,25352.8,25568.15,25335.25,25548.25,,177352564.0,
 2023-11-28,Nifty Services Sector,INDEX,,,25141.25,25271.25,25092.05,25221.5,,181450488.0,
 2023-11-24,Nifty Services Sector,INDEX,,,25089.4,25118.1,25032.05,25082.95,,87306136.0,
-2023-11-23,Nifty Services Sector,INDEX,,,25116.25,25180.3,25075.55,25092.15,,86080701.0,
-2023-11-22,Nifty Services Sector,INDEX,,,25075.0,25119.35,24956.8,25098.15,,111830716.0,
-2023-11-21,Nifty Services Sector,INDEX,,,25111.5,25141.85,25070.15,25084.95,,111604543.0,
