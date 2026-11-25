@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-25,Nifty India Railways PSU,INDEX,,,2554.7,2578.0,2526.25,2536.05,,110803418.0,
 2026-11-23,Nifty India Railways PSU,INDEX,,,2612.8,2624.95,2537.95,2538.4,,139228042.0,
 2026-11-20,Nifty India Railways PSU,INDEX,,,2594.85,2601.35,2576.6,2593.95,,84356142.0,
 2026-11-19,Nifty India Railways PSU,INDEX,,,2550.85,2616.45,2544.55,2615.45,,81219663.0,

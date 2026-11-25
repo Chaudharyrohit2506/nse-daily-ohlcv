@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-25,Nifty Energy,INDEX,,,36813.55,36886.5,36406.8,36669.2,,279404875.0,
 2026-11-23,Nifty Energy,INDEX,,,37440.55,37494.8,36638.7,36655.1,,275866676.0,
 2026-11-20,Nifty Energy,INDEX,,,37127.3,37322.25,36932.45,37321.25,,276746218.0,
 2026-11-19,Nifty Energy,INDEX,,,36941.85,37405.5,36842.7,37405.35,,256311872.0,
@@ -734,4 +735,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-11-30,Nifty Energy,INDEX,,,29314.85,29344.7,29056.05,29294.9,,213892670.0,
 2023-11-29,Nifty Energy,INDEX,,,29493.35,29526.8,29262.65,29311.85,,144013659.0,
 2023-11-28,Nifty Energy,INDEX,,,28736.45,29307.95,28670.7,29252.95,,167570194.0,
-2023-11-24,Nifty Energy,INDEX,,,28625.8,28714.15,28534.25,28558.75,,70449262.0,

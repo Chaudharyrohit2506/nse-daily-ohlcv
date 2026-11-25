@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-25,Nifty Cement,INDEX,,,14710.35,14941.5,14710.35,14860.55,,5591030.0,
 2026-11-23,Nifty Cement,INDEX,,,14931.5,14935.15,14632.9,14669.15,,11974609.0,
 2026-11-20,Nifty Cement,INDEX,,,14665.3,14932.5,14600.05,14873.55,,19835216.0,
 2026-11-19,Nifty Cement,INDEX,,,14391.75,14673.35,14339.6,14664.7,,8155683.0,

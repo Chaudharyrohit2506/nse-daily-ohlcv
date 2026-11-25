@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-25,Nifty100 Liquid 15,INDEX,,,8219.1,8274.55,8165.05,8208.9,,148445861.0,
 2026-11-23,Nifty100 Liquid 15,INDEX,,,8251.45,8275.25,8087.2,8093.25,,134070283.0,
 2026-11-20,Nifty100 Liquid 15,INDEX,,,8070.2,8187.7,8052.4,8187.7,,137573573.0,
 2026-11-19,Nifty100 Liquid 15,INDEX,,,8066.55,8120.6,8022.95,8115.25,,153555944.0,
@@ -734,4 +735,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-11-30,Nifty100 Liquid 15,INDEX,,,5432.8,5446.85,5408.05,5435.95,,196550548.0,
 2023-11-29,Nifty100 Liquid 15,INDEX,,,5409.25,5430.95,5398.1,5427.4,,91258768.0,
 2023-11-28,Nifty100 Liquid 15,INDEX,,,5329.6,5380.9,5317.45,5374.7,,97430777.0,
-2023-11-24,Nifty100 Liquid 15,INDEX,,,5321.8,5325.65,5301.45,5307.3,,53950035.0,

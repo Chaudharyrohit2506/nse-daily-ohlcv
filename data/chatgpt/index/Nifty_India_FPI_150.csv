@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-25,Nifty India FPI 150,INDEX,,,1617.55,1628.1,1610.9,1622.0,,1481456351.0,
 2026-11-23,Nifty India FPI 150,INDEX,,,1629.9,1633.3,1600.25,1600.25,,1464436352.0,
 2026-11-20,Nifty India FPI 150,INDEX,,,1599.45,1623.2,1597.35,1623.15,,1377433229.0,
 2026-11-19,Nifty India FPI 150,INDEX,,,1587.85,1609.1,1583.8,1609.1,,1228293336.0,

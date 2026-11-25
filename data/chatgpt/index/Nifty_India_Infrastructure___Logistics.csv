@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-25,Nifty India Infrastructure & Logistics,INDEX,,,11815.6,11835.3,11704.95,11765.35,,771713787.0,
 2026-11-23,Nifty India Infrastructure & Logistics,INDEX,,,11947.9,11965.8,11732.85,11733.45,,670553657.0,
 2026-11-20,Nifty India Infrastructure & Logistics,INDEX,,,11786.85,11908.15,11748.9,11906.0,,655074551.0,
 2026-11-19,Nifty India Infrastructure & Logistics,INDEX,,,11734.4,11873.05,11711.1,11872.25,,661208498.0,

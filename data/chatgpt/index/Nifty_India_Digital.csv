@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-25,Nifty India Digital,INDEX,,,8831.2,8869.15,8694.5,8734.9,,548151333.0,
 2026-11-23,Nifty India Digital,INDEX,,,8711.8,8775.8,8659.5,8694.75,,561562161.0,
 2026-11-20,Nifty India Digital,INDEX,,,8535.85,8725.9,8520.4,8647.5,,538714984.0,
 2026-11-19,Nifty India Digital,INDEX,,,8590.85,8599.75,8504.25,8581.3,,601899013.0,
@@ -734,4 +735,3 @@ trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,t
 2023-11-30,Nifty India Digital,INDEX,,,6822.9,6867.2,6789.15,6844.4,,968760850.0,
 2023-11-29,Nifty India Digital,INDEX,,,6767.7,6817.6,6758.45,6795.25,,288520364.0,
 2023-11-28,Nifty India Digital,INDEX,,,6748.9,6749.35,6697.25,6723.75,,239076324.0,
-2023-11-24,Nifty India Digital,INDEX,,,6778.0,6781.9,6719.7,6729.2,,227458866.0,
