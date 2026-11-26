@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-26,Nifty REITs & Realty,INDEX,,,1940.55,1971.6,1932.35,1964.75,,21830772.0,
 2026-11-25,Nifty REITs & Realty,INDEX,,,1945.2,1949.05,1926.85,1934.05,,17359022.0,
 2026-11-23,Nifty REITs & Realty,INDEX,,,1943.55,1948.65,1933.2,1938.05,,13916394.0,
 2026-11-20,Nifty REITs & Realty,INDEX,,,1915.55,1941.65,1909.25,1938.55,,12389557.0,

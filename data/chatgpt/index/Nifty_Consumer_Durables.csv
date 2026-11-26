@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-26,Nifty Consumer Durables,INDEX,,,38691.6,38762.7,38070.25,38149.9,,31654906.0,
 2026-11-25,Nifty Consumer Durables,INDEX,,,38910.7,39084.65,38278.7,38663.7,,19993389.0,
 2026-11-23,Nifty Consumer Durables,INDEX,,,38553.05,39001.95,38524.4,38715.25,,30007978.0,
 2026-11-20,Nifty Consumer Durables,INDEX,,,38163.1,38487.95,38082.3,38487.95,,37891661.0,

@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-26,Nifty Commercial & Transport Services,INDEX,,,,,,13914.29,,32929396.0,
 2026-11-25,Nifty Commercial & Transport Services,INDEX,,,,,,13983.23,,44251810.0,
 2026-11-23,Nifty Commercial & Transport Services,INDEX,,,,,,13869.01,,34659724.0,
 2026-11-20,Nifty Commercial & Transport Services,INDEX,,,,,,13915.2,,47486508.0,

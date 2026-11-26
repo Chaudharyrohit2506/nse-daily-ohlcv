@@ -1,0 +1,2 @@
+trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-26,OLIL,EQUITY,EQ,INE0OPS01011,392.0,451.0,392.0,441.6,389.35,543979.0,230142431.4
