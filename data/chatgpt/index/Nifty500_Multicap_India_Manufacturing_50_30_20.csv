@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-27,Nifty500 Multicap India Manufacturing 50:30:20,INDEX,,,16930.85,17004.8,16852.0,16889.95,,255473583.0,
 2026-11-26,Nifty500 Multicap India Manufacturing 50:30:20,INDEX,,,16834.2,16941.05,16787.2,16911.5,,250457297.0,
 2026-11-25,Nifty500 Multicap India Manufacturing 50:30:20,INDEX,,,16819.5,16852.0,16700.0,16835.15,,431078683.0,
 2026-11-23,Nifty500 Multicap India Manufacturing 50:30:20,INDEX,,,16975.5,16996.7,16706.3,16717.05,,410083729.0,

@@ -1,4 +1,5 @@
 trade_date,symbol,asset_type,series,isin,open,high,low,close,prev_close,volume,traded_value
+2026-11-27,Nifty MidSmall Healthcare,INDEX,,,55294.7,55542.0,54897.2,55245.25,,20012245.0,
 2026-11-26,Nifty MidSmall Healthcare,INDEX,,,55153.1,55371.25,54970.95,55294.5,,23880603.0,
 2026-11-25,Nifty MidSmall Healthcare,INDEX,,,54948.4,55101.2,54485.4,55075.3,,61302449.0,
 2026-11-23,Nifty MidSmall Healthcare,INDEX,,,54464.1,54533.95,53943.6,54242.1,,21375754.0,
